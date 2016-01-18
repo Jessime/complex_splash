@@ -957,7 +957,7 @@ Music: What classical conductor won posthumous Grammy Awards in 1991, 1992, and 
 Music: Who's "Monk" to jazz buffs?*Thelonious Monk
 Music: What California group waited 22 years to score their first chart-toping single since 1966?*The Beach Boys
 Music: What city's opera house does " The Phantom of the Opera" prowl?*Paris
-Music: Who scored his first platinum album since 1978 with " The Icon Is Love " in 1994?&Barry White
+Music: Who scored his first platinum album since 1978 with " The Icon Is Love " in 1994?*Barry White
 Music: What Michael Jackson album spawned five chart-topping singles?*Bad
 Music: What trumpeter became the oldest person ever to score a chart-topping single, in 1964?*Louis Armstrong
 Music: What rock star was trying to bite the head off a bat in concert when the bat decided to bite back?*Ozzy Osbourne

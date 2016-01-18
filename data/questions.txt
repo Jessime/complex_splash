@@ -1,0 +1,4486 @@
+(dp0
+S'What process involves treating rubber with sulfur to harden it?'
+p1
+S'Vulcanizing'
+p2
+sS'Lesotho is a southern African Kingdom surrounded by which country?'
+p3
+S'South Africa'
+p4
+sS"Advertising Slogan - 'The future's bright'?"
+p5
+S'Orange'
+p6
+sS'Which song mentions saveloy, mustard, jelly, custard and sausages in \n the lyrics?'
+p7
+S'Food Glorious Food'
+p8
+sS'How many stars are on the flag of New Zealand?'
+p9
+S'Four'
+p10
+sS'In the Jungle Book, what kind of creature was Baloo?'
+p11
+S'A bear'
+p12
+sS'What uncooked meat is a trichina worm most likely to \n make a home in?'
+p13
+S'Pork'
+p14
+sS'Which are organs, which have the production of urine as \n their primary function?'
+p15
+S'Kidney'
+p16
+sS'Where did the Enola Gay drop a devastating bomb in \n WWII?'
+p17
+S'Hiroshima'
+p18
+sS'What Texan ended up with one delegate after spending $12 \n million of his own money running for president in 1980?'
+p19
+S'John Connally'
+p20
+sS'What other names are sardines known by?'
+p21
+S'Pilchards'
+p22
+sS'Who was the first country artist to sell over 10 \n million copies of an album?'
+p23
+S'Garth Brooks'
+p24
+sS'Who directed the classic movie High Noon?'
+p25
+S'Fred Zinnemann'
+p26
+sS'Which computer company dropped the Play Station line and created \n an Aptiva brand computer for home users?'
+p27
+S'IBM corporation'
+p28
+sS'In which country was the AIDS virus first recognized?'
+p29
+S'USA'
+p30
+sS'Phrases - "Keep your ---- to the grindstone"'
+p31
+S'nose'
+p32
+sS'This herb is used to flavour Pernod?'
+p33
+S'Aniseed'
+p34
+sS'Who had a 1994 No 1 with I Swear?'
+p35
+S'All-4-One'
+p36
+sS'Who is Leslie Sebastian Charles in chart terms?'
+p37
+S'Billy Ocean'
+p38
+sS'How many former Beatles had chart-topping singles from 1973 to \n 1974?'
+p39
+S'Four'
+p40
+sS'What German playwright penned the lyrics to Mack the Knife \n and Alabama Song?'
+p41
+S'Bertholt Brecht'
+p42
+sS'What sea creature can have an eye measuring 16 inches \n across, the largest in the animal kingdom?'
+p43
+S'A squid'
+p44
+sS"What singer for a 70's British rock quartet changed his \n name from Frederick Bulsara?"
+p45
+S'Freddie Mercury'
+p46
+sS"The World Wildlife Fund has which animal as it's symbol?"
+p47
+S'Giant Panda'
+p48
+sS'300,000 Chinese troops invaded a country in February of 1979, \n what was the country?'
+p49
+S'Vietnam'
+p50
+sS'Which book did Mark Chapman read while waiting to be \n arrested after the murder of John Lennon?'
+p51
+S'The Catcher in the Rye'
+p52
+sS'What baking ingredient, sprayed at high pressure, did the U.S. \n Air Force replace its toxic paint stripper with?'
+p53
+S'Baking soda'
+p54
+sS'Which Pope died in 1978 after a mere 33 days \n in office?'
+p55
+S'John Paul I'
+p56
+sS'In 1998 the Festina team was banned from what over \n drug allegations?'
+p57
+S'Tour de France cycle race'
+p58
+sS'Which 60s No 1 began with the French national anthem?'
+p59
+S'All You Need Is Love'
+p60
+sS"In which year did Al Stewart's Year Of The Cat \n make the charts?"
+p61
+S'1977'
+p62
+sS"A cow's stomach has how many chambers?"
+p63
+S'4'
+p64
+sS'What Olympic athlete could not run the 200-meter final in \n the 92 Olympics because of food poisoning?'
+p65
+S'Michael Johnson'
+p66
+sS'What land mammal other than man has the longest lifespan?'
+p67
+S'Elephant'
+p68
+sS'This refers to chanted or spoken rhyming lyrics often used \n in hip hop music?'
+p69
+S'Rapping'
+p70
+sS'What food was considered the food of the Gods, and \n was said to bring eternal life to anyone who ate it?'
+p71
+S'Ambrosia'
+p72
+sS'A Calzone Is A Folded Stuffed What?'
+p73
+S'Pizza'
+p74
+sS'What California group waited 22 years to score their first \n chart-toping single since 1966?'
+p75
+S'The Beach Boys'
+p76
+sS'The Sicilian Specialist by Norman Lewis is a thinly disguised \n fictional account of which assassination plot?'
+p77
+S'J. F. Kennedy'
+p78
+sS'Who knocked themselves off No 1 position with their follow \n up On Bended Knee?'
+p79
+S'Boyz II Men'
+p80
+sS'What California city did the last Pony Express ride end \n in?'
+p81
+S'Sacramento'
+p82
+sS'When caterpillar changes into an adult butterfly what is the \n change called?'
+p83
+S'Metamorphous'
+p84
+sS'The Tamil Tigers were fighting for a separate state on \n which island?'
+p85
+S'Sri Lanka'
+p86
+sS'What sport did Mr. Moto, Lou Thesz, and Big Daddy \n Lipscomb star in?'
+p87
+S'Professional Wrestling'
+p88
+sS'Which food was popular with Popeye the Sailor?'
+p89
+S'Spinach'
+p90
+sS'This food has a name which means on a skewer?'
+p91
+S'Kebab'
+p92
+sS'Which Club went to the Wild, Wild West?'
+p93
+S'The Escape Club'
+p94
+sS'Which language apart from English is an official language of \n Canada?'
+p95
+S'French'
+p96
+sS'What is Scooby Doo`s favourite food?'
+p97
+S'Scooby Snacks'
+p98
+sS"In 2004 what DJ showed us how to 'Cha Cha \n Slide'?"
+p99
+S'DJ Casper'
+p100
+sS'Who was the first female with two UK million-selling singles?'
+p101
+S'Celine Dion'
+p102
+sS'Which US state is famous for Disneyland and the film \n industry?'
+p103
+S'California'
+p104
+sS'Who was the 16th president of the United States?'
+p105
+S'Abraham Lincoln'
+p106
+sS'What is the name for a collection of frogs?'
+p107
+S'Army'
+p108
+sS"To ponder is to 'wander' or 'wonder'?"
+p109
+S'Wonder'
+p110
+sS'Brown-Eyed Handsome Man was a hit for which singer after \n his death?'
+p111
+S'Buddy Holly'
+p112
+sS'Which Open Tennis tournament was John McEnroe expelled from?'
+p113
+S'Australian'
+p114
+sS'Which band included Phil Collins and Peter Gabriel?'
+p115
+S'Genesis'
+p116
+sS'Which subhuman primate is the most intelligent?'
+p117
+S'Chimpanzee'
+p118
+sS'Which band sang I want to Know What Love Is?'
+p119
+S'Foreigner'
+p120
+sS'In which African countries were US embassies bombed in 1998?'
+p121
+S'Kenya & Tanzania'
+p122
+sS'Who fronted The Heartbreakers?'
+p123
+S'Tom Petty'
+p124
+sS'Phrases - "Have your guts for -------"'
+p125
+S'garters'
+p126
+sS'In ancient eygpt the ploughs were first pulled by what?'
+p127
+S'People'
+p128
+sS'What animal pollinates banana plants in the wild?'
+p129
+S'Bats'
+p130
+sS'Which "Lord" was executed for treason in 1946 for broadcasting \n Nazi propaganda?'
+p131
+S'Lord Haw-Haw'
+p132
+sS"What's removed from water in the process of desalination?"
+p133
+S'Salt'
+p134
+sS'What unit of measure do you multiply by .39 to \n convert it to inches?'
+p135
+S'Centimeters'
+p136
+sS'The llama belongs to what family to what family of \n animals?'
+p137
+S'Camel'
+p138
+sS"In which country's waters was Greenpeace's Rainbow Warrior sunk in \n 1985?"
+p139
+S"New Zealand's"
+p140
+sS'What country did 153 of the first 400 Nobel Prize-winning \n scientists call home?'
+p141
+S'The United States'
+p142
+sS'What part of the body is also the name of \n a punctuation mark?'
+p143
+S'Colon'
+p144
+sS"What nutty legume accounts for one sixth of the world's \n vegetable oil production?"
+p145
+S'The peanut'
+p146
+sS'What was the drink we know as the Bloody Mary \n originally called?'
+p147
+S'The Red Snapper'
+p148
+sS'In what country can one find 40 species of lemurs?'
+p149
+S'Madagascar'
+p150
+sS'This man was the first human to set foot on \n the moon?'
+p151
+S'Neil Armstrong'
+p152
+sS'What so-called "war" spawned the dueling slogans "Better Dead Than \n RED" and "Better Red Than Dead" in the 1950\'s?'
+p153
+S'The Cold War'
+p154
+sS'What French port did 200,000 British troops flee on June \n 4, 1940?'
+p155
+S'Dunkirk'
+p156
+sS'What is a large, clawed, marine crustacean?'
+p157
+S'Lobster'
+p158
+sS'The cause of what color fever was discovered in 1900?'
+p159
+S'Yellow'
+p160
+sS'What does the F stand for in FBI?'
+p161
+S'Federal'
+p162
+sS'The Channel Tunnel links England with which European country?'
+p163
+S'France'
+p164
+sS'Which day of the week did the Mamas a & \n Papas sing about?'
+p165
+S'Monday'
+p166
+sS'The US declared war on which country after the bombing \n of Pearl Harbor?'
+p167
+S'Japan'
+p168
+sS"What was the name of the computer company that was \n named after the founder's memories of a summer in an Orchard in Oregon?"
+p169
+S'Apple'
+p170
+sS'The main vegetable ingredient in the dish Borsht is what?'
+p171
+S'Beetroot'
+p172
+sS"What is to hurt someone's feelings?"
+p173
+S'Offend'
+p174
+sS'Which Italian actress was voted the Most Beautiful Italian Girl \n in Tunis 1957?'
+p175
+S'Claudia Cardinale'
+p176
+sS"How many songs from the Beatles' Sgt. Pepper's Lonely Hearts \n Club Band were released as singles?"
+p177
+S'Zero'
+p178
+sS'The Chinese city of Beijing was previously known as what?'
+p179
+S'Peking'
+p180
+sS'What type of food did Linda McCartney launch?'
+p181
+S'Vegetarian food'
+p182
+sS'Which type of semi aquatic animal is a lutra-lutra?'
+p183
+S'An Otter'
+p184
+sS"What rocker Darius Rucker's stage name?"
+p185
+S'Hootie'
+p186
+sS"In 1982 who had a hit with 'Pass the Dutchie'?"
+p187
+S'Musical Youth'
+p188
+sS'What is the name of this hot red chilli pepper \n it is often dried and ground?'
+p189
+S'Cayenne Pepper'
+p190
+sS'In computer lingo what is a MUD?'
+p191
+S'Multi User Computer Game'
+p192
+sS'The deep toned wind instrument native to Australia is called \n a what?'
+p193
+S'Didgeridoo'
+p194
+sS'What Alanis Morissette debut album sold over ten million copies?'
+p195
+S'Jagged Little Pill'
+p196
+sS'How many colors are there in a rainbow?'
+p197
+S'7'
+p198
+sS'A canteloupe is what kind of fruit?'
+p199
+S'Melon'
+p200
+sS"What's lava bread?"
+p201
+S'Seaweed'
+p202
+sS'A whales breathing organs are called what?'
+p203
+S'Lungs'
+p204
+sS'A Quagga is an extinct animal that was a distant \n cousin to which animal that exists today?'
+p205
+S'Zebra'
+p206
+sS"What was Nirvana's third album called?"
+p207
+S'In Utero'
+p208
+sS'What R&B vocal quartet titled its third album II in \n 1994?'
+p209
+S'Boyz II Men'
+p210
+sS"Ashton Kutcher's famous older wife is whom?"
+p211
+S'Demi Moore'
+p212
+sS'What woman was arrested for voting in the 1872 election \n for U.S. president?'
+p213
+S'Susan B. Anthony'
+p214
+sS'What is a bad Dream?'
+p215
+S'Nightmare'
+p216
+sS'In which state did Kurt Cobain die(kill himself)?'
+p217
+S'Washington'
+p218
+sS'Phrases - "The whole --- and caboodle"'
+p219
+S'kit'
+p220
+sS"This tree's berries are used to flavour gin?"
+p221
+S'Juniper'
+p222
+sS'Which Mariah Carey and Boyz II Men song became the \n first to spend 16 weeks at No 1?'
+p223
+S'One Sweet Day'
+p224
+sS'Which country invented the Marmite alternative - Veggie mite?'
+p225
+S'Australia'
+p226
+sS"What is the only mammal that can't jump?"
+p227
+S'Elephant'
+p228
+sS'How many types of panda are there?'
+p229
+S'Two'
+p230
+sS"I'll Be There For You was the theme to which \n hit TV show?"
+p231
+S'Friends'
+p232
+sS'What\xe2\x80\x99s the fastest swimming marine mammal?'
+p233
+S'the killer whale'
+p234
+sS"The Electronic Frontier Foundation named its $250,000 computer designed to \n crack the U.S. government's outdated DES cryptographic code what?"
+p235
+S'Deep Crack'
+p236
+sS"What's the base unit of mass in the metric system?"
+p237
+S'The kilogram'
+p238
+sS'Who was Saving All My Love For You?'
+p239
+S'Whitney Houston'
+p240
+sS'The Kaiser Chiefs sang about what girl?'
+p241
+S'Ruby'
+p242
+sS'Which type of animals have more teeth, reptiles or mammals?'
+p243
+S'Mammals'
+p244
+sS'What is the Aloha State?'
+p245
+S'Hawaii'
+p246
+sS'The Noddy Stories was written by whom?'
+p247
+S'Enid Blyton'
+p248
+sS'What colour polka dot bikini was a great party hit?'
+p249
+S'Yellow'
+p250
+sS"What group's early BBC performances went quadruple platinum within two \n months of their U.S. release in late 1994?"
+p251
+S'The Beatles'
+p252
+sS'A Saki is what type of animal?'
+p253
+S'A Monkey'
+p254
+sS'What did Patrick Swayze say "She\'s Like"?'
+p255
+S'The Wind'
+p256
+sS'Who wrote under the pseudonym Bernard Webb?'
+p257
+S'Paul McCartney'
+p258
+sS'What TV host went gold with the CD Romantic Christmas?'
+p259
+S'John Tesh'
+p260
+sS'Which bug has the most legs?'
+p261
+S'Millipede'
+p262
+sS'The Mona Lisa was painted by whom?'
+p263
+S'Leonardo Da Vinci'
+p264
+sS'What U.S. state boasts the famous Calumet race on horse \n farms?'
+p265
+S'Kentucky'
+p266
+sS'What cooking fuel is produced by heating wood without oxygen?'
+p267
+S'Charcoal'
+p268
+sS"Who sang I'm Leaving It Up To You with Dale?"
+p269
+S'Grace'
+p270
+sS"Rugby's man mountain Jonah Lomu plays for which country?"
+p271
+S'New Zealand'
+p272
+sS"Where was the USA's worst nuclear accident, in 1979?"
+p273
+S'Three Mile Island'
+p274
+sS"Elton John's first version of 'A Candle In The Wind' \n was about whom?"
+p275
+S'Marilyn Monroe'
+p276
+sS'Who was Prime Minister of Afghanistan from 1993 to 1994?'
+p277
+S'Gulbuddin Hematyar'
+p278
+sS'What is the smallest bird in the world?'
+p279
+S'Hummingbird'
+p280
+sS'What was it that Killed Cleopatra?'
+p281
+S'An asp'
+p282
+sS"Ottawa is which country's capital?"
+p283
+S'Canada'
+p284
+sS'What are the two most common unbowed stringed instruments found \n in a symphony orchestra?'
+p285
+S'The Harp and the Piano'
+p286
+sS'What did Melissa Etheridge title her first album after coming \n out of the closet?'
+p287
+S'Yes I Am'
+p288
+sS"What was 'Up above the streets and houses, climbing high, \n which everyone could see smiling, over the sky'?"
+p289
+S'Rainbow'
+p290
+sS'What food is the leading source of salmonella poisoning?'
+p291
+S'Chicken'
+p292
+sS'The Taliban were a guerrilla group in which country?'
+p293
+S'Afghanistan'
+p294
+sS"In the Hansel and Gretel tale what was the wicked \n witch's house made of?"
+p295
+S'Gingerbread'
+p296
+sS'What fruit was originally called a Chinese gooseberry'
+p297
+S'Kiwi Fruit'
+p298
+sS"What newly-imported substance caused the first major outbreak of tooth \n decay in Europe, in the1500's?"
+p299
+S'Sugar'
+p300
+sS'What U.S. city\xe2\x80\x99s drivers log 142 million miles daily, as \n far as from Earth to Mars?'
+p301
+S'Los Angeles'
+p302
+sS'In which country was the Titanic launched?'
+p303
+S'Ireland'
+p304
+sS'What does the V stand for in SWV?'
+p305
+S'Voices'
+p306
+sS'Man first stepped foot on the moon in which year?'
+p307
+S'1969'
+p308
+sS'Where in the human body would you find the scaphoid \n bone?'
+p309
+S'Wrist'
+p310
+sS'Black-eyed peas are not peas. What are they?'
+p311
+S'Beans'
+p312
+sS'In Peru, what animal provides 50% of all the protein \n eatin?'
+p313
+S'The Guinea Pig'
+p314
+sS'What weekday do more colds begin on than any other?'
+p315
+S'Monday'
+p316
+sS'How is Leslie Wundermann better known?'
+p317
+S'Taylor Dayne'
+p318
+sS'Which penguin dad likes to babysit?'
+p319
+S'Emporer Penguin'
+p320
+sS'What form was the Egyptian god Sobek?'
+p321
+S'Crocodile'
+p322
+sS'What was the profession of "Arnold Newman?'
+p323
+S'Photographer'
+p324
+sS'What Bizet opera concerns a gal who dumps a soldier \n for a bullfighter?'
+p325
+S'Carmen'
+p326
+sS'Hash Browns are normally made from which vegetables?'
+p327
+S'Potatoes'
+p328
+sS'Dido sang a song about this colour flag?'
+p329
+S'White Flag'
+p330
+sS'Who recorded the album Stranger In Town?'
+p331
+S'Bob Serger'
+p332
+sS'What animals make a sound called nuzzing?'
+p333
+S'Camels'
+p334
+sS'Buckingham Palace is in which English City.'
+p335
+S'London'
+p336
+sS'A stoat produces fur called what?'
+p337
+S'Ermine'
+p338
+sS'Who was the first US President to resign while in \n office?'
+p339
+S'Richard Nixon'
+p340
+sS'What word can go before - Jumping, Off and Down?'
+p341
+S'Show'
+p342
+sS'How many brothers were in the original Jackson family line \n up?'
+p343
+S'Five'
+p344
+sS'Where did Hurricane Mitch strike in 1998?'
+p345
+S'Central America'
+p346
+sS'Which country does the dish Mousakka come from?'
+p347
+S'Greece'
+p348
+sS'Homer Simpson drinks what brand of beer?'
+p349
+S'Duff'
+p350
+sS'A lepidopterist collects?'
+p351
+S'Butterflies & moths'
+p352
+sS'How was film director Emil Anton Bundmann better known?'
+p353
+S'Anthony Mann'
+p354
+sS'Who was the first U.S. president to adopt the informal \n version of his first name?'
+p355
+S'Jimmy Carter'
+p356
+sS"What's the U. S. equivalent of 0.45 kilograms?"
+p357
+S'One pound'
+p358
+sS"What anagram of 'english' is at home on the beach?"
+p359
+S'Shingle'
+p360
+sS"Who duetted on the 1993 hit I've Got You Under \n My Skin with Frank Sinatra?"
+p361
+S'Bono'
+p362
+sS'Sauerkraut is pickled what?'
+p363
+S'Cabbage'
+p364
+sS'Who had a huge 70s No 1 with Shadow Dancing?'
+p365
+S'Andy Gibb'
+p366
+sS'The displays commonly found in notebook and laptop computers are \n called what?'
+p367
+S'Liquid Crystal Display'
+p368
+sS'What was the nickname of frontierswoman Martha Jane Burk?'
+p369
+S'Calamity Jane'
+p370
+sS'Which Gibb brother is the eldest?'
+p371
+S'Barry'
+p372
+sS'Which film revived the 70s song You Sexy Thing?'
+p373
+S'The Full Monty'
+p374
+sS'Who had a 1978 No 1 with Boogie Oogie Oogie?'
+p375
+S'A Taste Of Honey'
+p376
+sS'Which meat is usally in a Shish Kebab?'
+p377
+S'Lamb'
+p378
+sS'When Birdseye introduced the first frozen food in 1930, what \n did the company call it?'
+p379
+S'Frosted Food'
+p380
+sS'What hit the market alongside spinach as the first frozen \n veggies?'
+p381
+S'Peas'
+p382
+sS"In which musical would you hear 'Consider Yourself'?"
+p383
+S'Oliver'
+p384
+sS'Who earned infamy for noting: "A billion dollars isn\'t worth \n what it used to be"?'
+p385
+S'J. Paul Getty'
+p386
+sS'The Fresh Prince of where was the subject of a \n sitcom of 140+ shows?'
+p387
+S'Bel Air'
+p388
+sS'What was the best-selling album named after a city, in \n the 1970s?'
+p389
+S'Boston'
+p390
+sS'Which country does Eddy Grant originate from?'
+p391
+S'Guyana'
+p392
+sS'What type of creature is a Basilisk?'
+p393
+S'Lizard'
+p394
+sS'The study of animals is given the name of what?'
+p395
+S'Zoology'
+p396
+sS'What are dried prunes?'
+p397
+S'Plums'
+p398
+sS'Which two fruits are anagrams of each other?'
+p399
+S'Lemon & Melon'
+p400
+sS'Whose forces were defeated at the Battle of Midway in \n 1942?'
+p401
+S'Japan'
+p402
+sS'What is the most widely eaten fish in the world?'
+p403
+S'The Herring'
+p404
+sS'These creatures were used to bleed patients in the nineteeth \n century?'
+p405
+S'Leeches'
+p406
+sS'Who scored his first platinum album since 1978 with " \n The Icon Is Love " in 1994?'
+p407
+S'Barry White'
+p408
+sS'Marlon Brando was born in which decade of the century?'
+p409
+S'20s'
+p410
+sS'Cumulus and Cirrus are types of what?'
+p411
+S'Cloud'
+p412
+sS'What U.S. president\'s middle initial "S" did not stand for \n a name?'
+p413
+S'Harry S Truman'
+p414
+sS'What milk product did the U.S. Agriculture Department propose as \n a substitute for meat in school lunches, in 1996?'
+p415
+S'Yogurt'
+p416
+sS'Where was the Bay of Pigs whose invasion sparked a \n world crisis in the 60s?'
+p417
+S'Cuba'
+p418
+sS'On which Stevie Wonder album did he team up with \n Michael Jackson to sing Get It?'
+p419
+S'Characters'
+p420
+sS"What is the name of Whitney Houston's daughter named after \n the baby's father?"
+p421
+S'Bobbie'
+p422
+sS'What country did Ion Iliescu take over after its previous \n president was arrested, tried and shot?'
+p423
+S'Romania'
+p424
+sS'In which decade was Madonna born?'
+p425
+S'50s'
+p426
+sS'What aboriginal name is Ayers Rock also known as?'
+p427
+S'Uluru'
+p428
+sS'Who adorned his last piano with 350 pounds of rhinestones?'
+p429
+S'Liberace'
+p430
+sS'Which family of vegatables are Chives from?'
+p431
+S'Onions'
+p432
+sS'What countdown deejay intones: "keep your feet to the ground, \n and keep reaching for the stars"?'
+p433
+S'Casey Kasem'
+p434
+sS'In the charity AHA, what part of the body does \n H stand for?'
+p435
+S'Heart'
+p436
+sS'What color is an ocelot?'
+p437
+S'Yellow with black markings'
+p438
+sS'What is a musical trill \xe2\x80\x94 and a curly potato \n snack?'
+p439
+S'Quaver'
+p440
+sS"What musical instrument's sales escalated from 228,000 in 1950 to \n 2.3 million in 1971?"
+p441
+S'The guitar'
+p442
+sS'What seven words complete the Purple Haze line: "Actin\' funny, \n but I don\'t know why"?'
+p443
+S'Scuse me while I kiss the sky'
+p444
+sS'How many birthday candles were Cher, Dolly Parton and Sylivester \n Stallone each obliged to blow out in 1996?'
+p445
+S'Fifty'
+p446
+sS"What is a man's name \xe2\x80\x94 and means yes?"
+p447
+S'Roger'
+p448
+sS'The dog fish is what type of fish?'
+p449
+S'A shark'
+p450
+sS'In the United States, what are the five most frequently \n eaten fruits?'
+p451
+S'banana'
+p452
+sS"Advertising Slogan - What product is - 'It's a bit \n of an animal'"
+p453
+S'Pepperami'
+p454
+sS'What type of animal according to Beatrix Potter was Mr \n Jeremy Fisher?'
+p455
+S'Frog'
+p456
+sS'What type of micro organism makes up the base of \n marine and freshwater food chains?'
+p457
+S'Plankton'
+p458
+sS'What country first came up with windmills?'
+p459
+S'Iran'
+p460
+sS'What is the name of the country that flew the \n first supersonic airliner in 1968 and had it crash in 1973?'
+p461
+S'The Soviet Union'
+p462
+sS'Who, during the Vietnam War, was known as Hanoi Jane?'
+p463
+S'Jane Fonda'
+p464
+sS'Sugar found in fruit is known by what name?'
+p465
+S'Fructose'
+p466
+sS"What name's given to a small, deep fried chinese dumpling \n with a savoury filing?"
+p467
+S'Won ton'
+p468
+sS'The Playboy Magazine was founded by whom?'
+p469
+S'Hugh Hefner'
+p470
+sS'Who had No 1 hits with West End Girls and \n It\xe2\x80\x99s a Sin?'
+p471
+S'Pet Shop Boys'
+p472
+sS'The Aorta is in which organ in the body?'
+p473
+S'Heart'
+p474
+sS'When drawing circles what instrument would you use?'
+p475
+S'Compass'
+p476
+sS'Where do the Super Bowl winning Cowboys come form?'
+p477
+S'Dallas'
+p478
+sS"To listen is to 'here' or 'hear'?"
+p479
+S'Hear'
+p480
+sS"What sport did the Philadelphia Atoms and the Dallas Tornado \n play in the 1970's?"
+p481
+S'Soccer'
+p482
+sS'What star sign is shared by John Major and Sir \n David Frost?'
+p483
+S'Aries'
+p484
+sS"Bacardi Rum's logo features which creature?"
+p485
+S'Bat'
+p486
+sS'Which Scandinavian Capital Begins And Ends With The Same Letter?'
+p487
+S'Oslo'
+p488
+sS'How many furlongs to a mile?'
+p489
+S'8'
+p490
+sS'Which animal is used on the Toys R Us logo?'
+p491
+S'Giraffe'
+p492
+sS'How many Grammy Awards did Lawrence Welk garner during his \n 50-year career?'
+p493
+S'Zero'
+p494
+sS'What British punks played to more fans in the first \n weekend of their 1996 "Filthy Lucre" tour than during their entire 1978 U.S. tour?'
+p495
+S'The Sex Pistols'
+p496
+sS'Which country is The Prado Art Museum?'
+p497
+S'Spain'
+p498
+sS'What jazz trumpeter was dubbed the "Prince of Darkness"?'
+p499
+S'Miles Davis'
+p500
+sS'What word was used to describe Peggy March?'
+p501
+S'Little'
+p502
+sS'On which of the Canary Islands did a collision of \n two jumbo jets take place, making it one of the worst air disasters in history?'
+p503
+S'Tenerife'
+p504
+sS'What hazardous substance is euphemistically referred to as "mineral fiber"?'
+p505
+S'Asbestos'
+p506
+sS'On the top of the Calcutta Cup what animal will \n you find?'
+p507
+S'Elephant'
+p508
+sS'What type of insect has the best eyesight?'
+p509
+S'Dragonfly'
+p510
+sS'Who was the first female to reach 30 top ten \n hits?'
+p511
+S'Madonna'
+p512
+sS'R.E.M. cut the No 1 album Out Of what?'
+p513
+S'Time'
+p514
+sS'What would you be drinking if you were drinking Earl \n Grey?'
+p515
+S'Tea'
+p516
+sS'A Harlequin is what type of bird?'
+p517
+S'A duck'
+p518
+sS'What bandleader became the first jazz musician to get an \n honorary degree from Columbia University, in 1973?'
+p519
+S'Duke Ellington'
+p520
+sS'What is a macadamia?'
+p521
+S'Nut'
+p522
+sS'Alphabetically, what animal comes first in the Chinese horoscope?'
+p523
+S'Boar'
+p524
+sS'On which label does Mariah Carey record?'
+p525
+S'Columbia'
+p526
+sS'Phrases - "It\'s better to light a ------ than curse \n the darkness"'
+p527
+S'candle'
+p528
+sS"When a wine is described as 'brut' what does it \n mean about the taste?"
+p529
+S'Very Dry'
+p530
+sS'What 1976 chart-topping song did Barry Manilow sing, but not \n write?'
+p531
+S'I Write the Songs'
+p532
+sS'Which animals does Lupine relate to?'
+p533
+S'Wolves'
+p534
+sS'Can iguanas blink?'
+p535
+S'No'
+p536
+sS'What kind of animal is the emblem of the US \n republican political party?'
+p537
+S'Elephant'
+p538
+sS'What team won the first national college football championship?'
+p539
+S'Yale'
+p540
+sS'In which Park was the New York marathon run until \n 14970?'
+p541
+S'Central Park'
+p542
+sS'Fireworks originated in what country?'
+p543
+S'China'
+p544
+sS'Which middle name did UK Prime Minister Winston Churchill share \n with Charlie Chaplin?'
+p545
+S'Spencer'
+p546
+sS'What became America\xe2\x80\x99s first organized sport, in 1664?'
+p547
+S'Horse racing'
+p548
+sS"What's Sauerkraut's main ingredient?"
+p549
+S'Cabbage'
+p550
+sS'Which city gave its name to a three-coloured Neapolitan ice-cream?'
+p551
+S'Naples'
+p552
+sS'What fruit or vegetable was dubbed the FlavrSavr and was \n the first genetically engineered food sold in the United States?'
+p553
+S'The tomato'
+p554
+sS"What was Barry Manilow's first No 1 single?"
+p555
+S'Mandy'
+p556
+sS'In what game did Mario make his first appearance?'
+p557
+S'Donkey Kong'
+p558
+sS'What 1865 Wagner opera opens on a ship?'
+p559
+S'Tristan and Isolde'
+p560
+sS'What is the official national cheese of Greece?'
+p561
+S'Feta'
+p562
+sS'Who\'s "Monk" to jazz buffs?'
+p563
+S'Thelonious Monk'
+p564
+sS'What did Charles Babbage invent when he designed his analytical \n engine in 1833?'
+p565
+S'Computer'
+p566
+sS'Which state is called the Golden state?'
+p567
+S'California'
+p568
+sS'Grolsch lager is from which country?'
+p569
+S'Holland'
+p570
+sS'Pixar created a 1995 blockbuster hit move using computer animation. \n What was the title of the movie?'
+p571
+S'Toy Story'
+p572
+sS"How many original seasons of Gilligan's Island were TV viewers \n subjected to?"
+p573
+S'3'
+p574
+sS'What Italian wrote 32 operas between the ages of 18 \n and 30?'
+p575
+S'Gioacchino Rossini'
+p576
+sS'How do bees communicate with each other?'
+p577
+S'Dancing'
+p578
+sS'Which song by the palindromic (read same in either direction) \n pop group Abba had a palindromic title?'
+p579
+S'SOS'
+p580
+sS"In 1977 this group had a hit with 'Hotel California'?"
+p581
+S'Eagles'
+p582
+sS'How many days are in the month of October?'
+p583
+S'31'
+p584
+sS'Antigua and Barbuda lie in which Sea?'
+p585
+S'Caribbean'
+p586
+sS'Of the Worlds food crops, what percentage is pollinated by \n insects?'
+p587
+S'80 percent'
+p588
+sS'Who sold part of his ownership of Beatles songs to \n Sony for $95 million in 1995?'
+p589
+S'Michael Jackson'
+p590
+sS'Conference, Bartlett and Kaiser are all varieties of which fruit?'
+p591
+S'Pear'
+p592
+sS"Who are the queen bee's closest servants in a beehive?"
+p593
+S'Drones'
+p594
+sS'What is the crazy habit of inhaling noxious fumes?'
+p595
+S'Smoking'
+p596
+sS"What mother and child spent years in Nashville shopping demos \n they'd recorded on a $30 cassette recorder?"
+p597
+S'The Judds'
+p598
+sS'What composer was honored on the bicentennial of his death \n with a 180-disc compilation of all his works?'
+p599
+S'Wolfgang Amadeus Mozart'
+p600
+sS'The Walker Cup is competed for in which sport?'
+p601
+S'Golf'
+p602
+sS'Eskimos call what kind of creature a nanook?'
+p603
+S'Polar Bear'
+p604
+sS'What grungeless Seattle band\'s name is affectionately abbreviated "Pot USA"?'
+p605
+S'The Presidents of the United States'
+p606
+sS'Albertville and Lillehammer were two 90s venues for which event?'
+p607
+S'Winter Olympics'
+p608
+sS'What game mixed both Disney characters with Final Fantasy characters?'
+p609
+S'Kingdom Hearts'
+p610
+sS'The generic term for the mechanical, electrical and electronic components \n of a computer are called what?'
+p611
+S'Hardware'
+p612
+sS'Alphabetically, what animal comes last in the Chinese horoscope?'
+p613
+S'Tiger'
+p614
+sS'The Los Angeles Police Department developed a computer program to \n help solve homicides. What was it called?'
+p615
+S'HITMAN'
+p616
+sS'Who was the last president of the Soviet Union?'
+p617
+S'Mikail Gorbachev'
+p618
+sS'In the original Kingdom Hearts, who is Sora looking for?'
+p619
+S'Kairi'
+p620
+sS"What is Oprah Winfrey's real name?"
+p621
+S'Oprah Winfrey'
+p622
+sS'By what name is Emmanuel Rudnitsky more widely known?'
+p623
+S'Man Ray'
+p624
+sS'What jazz musician got his nickname by shortening "Satchel Mouth"?'
+p625
+S'Louis Armstrong'
+p626
+sS'1996 was the year of long-staying hits. How manly No \n 1s were there?'
+p627
+S'Nine'
+p628
+sS'What Woody Guthrie song goes "From California to the New \n York island / From the redwood forest to the Gulf Stream waters"?'
+p629
+S'This Land is Your Land'
+p630
+sS'An oak tree grows what kind of nut?'
+p631
+S'An acorn'
+p632
+sS'What founding father was knocked unconscious while attempting to electrocute \n a turkey?'
+p633
+S'Benjamin Franklin'
+p634
+sS'What common element is used in the manufacture of computer \n chips?'
+p635
+S'Silicon'
+p636
+sS'What does a meteorologist study?'
+p637
+S'Weather'
+p638
+sS"Who was the top-selling album artist of the 1970's according \n to Billboard?"
+p639
+S'Elton John'
+p640
+sS"What's the common name for a cubic decimeter?"
+p641
+S'liter'
+p642
+sS'What comes before jet \xe2\x80\x94 and after mumbo?'
+p643
+S'Jumbo'
+p644
+sS'What kind of Bites provided Def Leppard with a No \n 1 single?'
+p645
+S'Love'
+p646
+sS"Which year was the title of Zager & Evans' only \n No 1?"
+p647
+S'2525'
+p648
+sS'What type of train did Veteran Rod Stewart chart with?'
+p649
+S'Downtown Train'
+p650
+sS'Who reached No 1 with Unbelievable?'
+p651
+S'EMF'
+p652
+sS'What Canadian jockey, later crippled, rode Secretariat to the Triple \n Crown in 1973?'
+p653
+S'Ron Turcotte'
+p654
+sS'How was Billie Jean Moffitt later known in the tennis \n world?'
+p655
+S'Billie Jean King'
+p656
+sS'What Kiss star sported the longest tongue in rock?'
+p657
+S'Gene Simmons'
+p658
+sS'Acid turns Litmus paper which colour?'
+p659
+S'Red'
+p660
+sS'In fiction, what is the last name of Dr. Hannibal--the \n Cannibal?'
+p661
+S'Lecter'
+p662
+sS"What 'Z' is far-out humour?"
+p663
+S'Zany'
+p664
+sS'From the bark of which tree was aspirin originally obtained?'
+p665
+S'Willow'
+p666
+sS'Which animal has the longest lifespan in captivity?'
+p667
+S'Giant Tortoise'
+p668
+sS'What did the sun always shine on according to A \n HA?'
+p669
+S'TV'
+p670
+sS'What type of mammals fly using echolocation?'
+p671
+S'Bats'
+p672
+sS'This chemical element has the shortest name (3 letters)?'
+p673
+S'Tin'
+p674
+sS'Who had a No 1 hit with Here Comes the \n Hot Stepper?'
+p675
+S'Ini Kamoze'
+p676
+sS'What would you call a segment of garlic?'
+p677
+S'Clove'
+p678
+sS'What does the Italian musical term adagio mean?'
+p679
+S'Slow'
+p680
+sS'What group of people were the first to use freeze-drying \n on potatoes?'
+p681
+S'The Incas'
+p682
+sS'What type of chocolate was first developed for public consumption \n in Vevey, Switzerland in 1875?'
+p683
+S'Milk Chocolate'
+p684
+sS'Which sign of the Zodiac is represented by a crab?'
+p685
+S'Cancer'
+p686
+sS'Which shoe company did Michael Jordan famously promote?'
+p687
+S'Nike'
+p688
+sS'Who was the first John to have four solo No \n 1 hits?'
+p689
+S'Denver'
+p690
+sS'How many of every four Americans say that they believe \n in astrology?'
+p691
+S'1'
+p692
+sS'Which controversial book contained the line, "You can\'t ravish a \n tin of sardines?"'
+p693
+S"Lady Chatterley's Lover"
+p694
+sS'In which state did Chicago get together?'
+p695
+S'Illinois'
+p696
+sS'If you had frijoles refritos in a Mexican restaurant it \n would be refried what?'
+p697
+S'beans'
+p698
+sS"In 1990 who was 'Doin' the Do'?"
+p699
+S'Betty Boo'
+p700
+sS"What flavor of ice cream did Baskin-Robbins introduce to commemorate \n America's landing on the moon on July 20, 1969?"
+p701
+S'Lunar Cheesecake'
+p702
+sS'Who has been Pope the longest in the 20th century?'
+p703
+S'John Paul II'
+p704
+sS'Who is younger, Serena or Venus Williams?'
+p705
+S'Serena'
+p706
+sS'What city\'s opera house does " The Phantom of the \n Opera" prowl?'
+p707
+S'Paris'
+p708
+sS'What was the favourite food of Paddington Bear?'
+p709
+S'Marmalade'
+p710
+sS'What future Soviet dictator was training to be a priest \n when he got turned on to Marxism?'
+p711
+S'Joseph Stalin'
+p712
+sS'The song, Food, Glorious Food, was featured in which musical?'
+p713
+S'Oliver'
+p714
+sS'What 15-year-old rock icon-to-be was grounded for the whole summer \n after sneaking out to her first concert, to see David Bowie?'
+p715
+S'Madonna'
+p716
+sS'Which breakaway Russian republic had Grozny as its capital?'
+p717
+S'Chechnya'
+p718
+sS'Which will yield the most BTUs of energy--a gallon of \n oil, a pound of coal or a gallon of gasoline?'
+p719
+S'A gallon of oil'
+p720
+sS'A young Spanish lady is called a what?'
+p721
+S'Senorita'
+p722
+sS'Who had a No 1 with Brand New Key?'
+p723
+S'Melanie'
+p724
+sS'What explosive cosmic event was seen with the naked eye \n in 1987, for the first time in 383 years?'
+p725
+S'A supernova'
+p726
+sS'What crystalline salt is frequently used to enhance the flavor \n to TV dinners?'
+p727
+S'Monosodium glutamate'
+p728
+sS'Roxette came from which European country?'
+p729
+S'Sweden'
+p730
+sS'What president had solar panels installed on the white house \n roof?'
+p731
+S'Jimmy Carter'
+p732
+sS'What are Pontefract cakes made from?'
+p733
+S'Liquorice'
+p734
+sS'The UK supermarket chain ASDA is owned by which american \n retail giant?'
+p735
+S'Walmart'
+p736
+sS'What U.S. city did Indiana Jones take off from on \n his adventures in Raiders of the Lost Ark?'
+p737
+S'San Francisco'
+p738
+sS'The Victoria Falls are shared between Zimbabwe and which other \n country beginning with the same letter?'
+p739
+S'Zambia'
+p740
+sS'Which artist was the subject of a 1991 biography by \n Randy Taraborelli?'
+p741
+S'Michael Jackson'
+p742
+sS'Nephrology is the study of which organs?'
+p743
+S'Kidneys'
+p744
+sS'Who had a giant hit with Nobody Knows?'
+p745
+S'The Tony Rich Project'
+p746
+sS"What continent is subjected to the world's largest ozone hole?"
+p747
+S'Antarctica'
+p748
+sS'For most of the 20th century ST. Petersburg has been \n named after which Soviet Hero?'
+p749
+S'Lenin'
+p750
+sS'What color does litmus turn when dipped into acid?'
+p751
+S'Pink'
+p752
+sS'What type of creature is a sidewinder?'
+p753
+S'Snake'
+p754
+sS"Which entertainer on Conan O'Brien's show, choose NBC cafeteria chicken \n over his own brand in a blind taste test?"
+p755
+S'Kenny Rogers'
+p756
+sS'The River Seine runs through which European capital city?'
+p757
+S'Paris'
+p758
+sS'Marzipan is made from which nuts?'
+p759
+S'Almonds'
+p760
+sS'What was the number of the British Armored Division known \n as The Desert Rats?'
+p761
+S'7th'
+p762
+sS'Where in India did a major industrial accident occur in \n 1984?'
+p763
+S'Bhopal'
+p764
+sS'Who had hits with El Paso and Devil Woman?'
+p765
+S'Marty Robbins'
+p766
+sS'Who said: "I\'m the president of the United States and \n I\'m not going to eat any more broccoli"?'
+p767
+S'George Bush'
+p768
+sS'What Rodgers and Hammerstein show is the most often-performed musical \n in U.S. high schools?'
+p769
+S'Oklahoma!'
+p770
+sS'Which two countries share Victoria Falls?'
+p771
+S'Zimbabwe and Zambia'
+p772
+sS'Puff The Magic Dragon lived in which land?'
+p773
+S'Honalee'
+p774
+sS'Phrases - "Man does not live by ----- alone"'
+p775
+S'bread'
+p776
+sS'Who was described as "a woman who pulled herself up \n by her bra straps?"'
+p777
+S'Madonna'
+p778
+sS'The larvae of flies are called what?'
+p779
+S'Maggots'
+p780
+sS"In the Lone Range, what was Tonto's horse's name?"
+p781
+S'Scout'
+p782
+sS'What was the Teenage Mutant Ninja Turtles favorite food?'
+p783
+S'Pizza'
+p784
+sS'Which country in Europe consumes more spicy Mexican food than \n any other?'
+p785
+S'Norway'
+p786
+sS'What colour rain did prince sing about?'
+p787
+S'Purple'
+p788
+sS"What Sinatra signature tune became Elvis Presley's best-selling posthumous hit?"
+p789
+S'My Way'
+p790
+sS'What is The Teenage Mutant Ninja Turtles favourite food?'
+p791
+S'Pizza'
+p792
+sS'What current branch of the U.S. military was a corps \n of only 50 soldiers when World War I broke out?'
+p793
+S'The U.S. Air Force'
+p794
+sS"How many days after John F Kennedy's assassination was Lee \n Harvey Oswald shot?"
+p795
+S'2'
+p796
+sS'Which group were fronted by Jon Bon Jovi?'
+p797
+S'Bon Jovi'
+p798
+sS"What did Leo Sayer sing about that was 'in his \n heart'?"
+p799
+S'Thunder'
+p800
+sS'Which airline owned the plane which crashed off Nova Scotia \n in 1998 killing over 200 including UN officials?'
+p801
+S'Swissair'
+p802
+sS'Name all the different organelles of a eukaryotic cell'
+p803
+S'nucleolus'
+p804
+sS'What morning food has a name derived from the German \n word for stirrup?'
+p805
+S'Bagel'
+p806
+sS'Which Olympic Games were the scene of a terrorist attack \n by Palestinian guerrillas?'
+p807
+S'Munich'
+p808
+sS'Who is the main character of Final Fantasy VIII?'
+p809
+S'Squall Lionheart'
+p810
+sS'Which year marked the bi-centenary of Kentucky joining the Union?'
+p811
+S'1992'
+p812
+sS'What country is home to Grolsch lager?'
+p813
+S'Holland'
+p814
+sS'What are Alvin, Simon, and Theodore?'
+p815
+S'chipmunks'
+p816
+sS'Which group recorded the Bond theme for The Living Daylights?'
+p817
+S'AHA'
+p818
+sS'Okinawa is a volcano in which country?'
+p819
+S'Japan'
+p820
+sS'The best conductor of electricity is which metal?'
+p821
+S'Silver'
+p822
+sS'A cow normally has how many teats?'
+p823
+S'Four'
+p824
+sS'What is the only essential vitamin not found in the \n white potato?'
+p825
+S'Vitamin A'
+p826
+sS"What does the 'E stand for in Email?"
+p827
+S'Electronic'
+p828
+sS'Baked beans are made from which beans?'
+p829
+S'Haricot'
+p830
+sS'Which group wrote the songs for the movie Saturday Night \n Fever?'
+p831
+S'The Bee Gees'
+p832
+sS'Scooby Doo is what kind of dog?'
+p833
+S'Great Dane'
+p834
+sS'Which German airship crashed in New Jersey in 1937?'
+p835
+S'Hindenburg'
+p836
+sS'Which band recorded the album The Joshua Tree?'
+p837
+S'U2'
+p838
+sS'What company first condensed soup in 1898?'
+p839
+S"Campbell's"
+p840
+sS"What British duo's works are referred to as the Savoy \n Operas?"
+p841
+S'Gilbert & Sullivan'
+p842
+sS'Phrases - "It\'s better to ---- than to receive"'
+p843
+S'give'
+p844
+sS"What's the only fish that produces real caviar, according to \n the FDA?"
+p845
+S'Sturgeon'
+p846
+sS"What did the M stand for in J M Barrie's \n name?"
+p847
+S'Matthew'
+p848
+sS'What is the minimum number of musicians a band must \n have to be considered a "big band"?'
+p849
+S'Ten'
+p850
+sS'In 1904, what food product was renamed Post Toasties cereal \n because the clergy objected to the original name?'
+p851
+S"Elijah's Manna"
+p852
+sS'The official language of Austria is what?'
+p853
+S'German'
+p854
+sS'What colour is the far left stripe on the French \n flag?'
+p855
+S'Blue'
+p856
+sS'What vegetable is sold mainly before 30th October?'
+p857
+S'Pumpkin'
+p858
+sS'What are big chunks of ice that have broken off \n glaciers and drifted into the sea?'
+p859
+S'Icebergs'
+p860
+sS'Which fruit is used in the making of a Black \n Forest Gateau?'
+p861
+S'Black Cherries'
+p862
+sS'What was the name of the computer language named after \n a French philosopher and mathematician?'
+p863
+S'PASCAL'
+p864
+sS'Which scandal hit sportsman was described by wife Monica in \n 1998 as "kind of shy?"'
+p865
+S'Mike Tyson'
+p866
+sS'What track star was the first woman to receive the \n Jesse Owens Award, in 1982?'
+p867
+S'Mary Decker Slaney'
+p868
+sS'What tree gives us prunes?'
+p869
+S'The plum tree'
+p870
+sS'This word describes the force that pulls objects to the \n middle of the earth?'
+p871
+S'Gravity'
+p872
+sS'The Offspring of a male donkey and a female horse \n is called what?'
+p873
+S'A mule'
+p874
+sS'What type of animal is a Tasmanian Devil?'
+p875
+S'Marsupial'
+p876
+sS'What is the centre of a hurricane called?'
+p877
+S'Eye'
+p878
+sS'Which county\'s "Spring" was halted by the arrival of Soviet \n tanks in 1968?'
+p879
+S'Czechoslovakia'
+p880
+sS'The Greek historian Herodotus dubbed what country "the gift of \n the Nile"?'
+p881
+S'Egypt'
+p882
+sS"Which computer language is an acronym of the name of \n the world's first computer programmer?"
+p883
+S'ADA'
+p884
+sS'What might you be eating at Wimbledon if you had \n a Cambridge Rival in your mouth?'
+p885
+S'Strawberry'
+p886
+sS'What was margarine called when it was first marketed in \n England?'
+p887
+S'Butterine'
+p888
+sS"What's cockney rhyming slang for eyes?"
+p889
+S'Mince Pies'
+p890
+sS'Eddy Grant comes from what country?'
+p891
+S'Guyana'
+p892
+sS'What "D" do Americans call a pack of playing cards?'
+p893
+S'Deck'
+p894
+sS'What sticky sweetener was traditionally used as an antiseptic ointment \n for cuts and burns?'
+p895
+S'Honey'
+p896
+sS'UB40 & Bob Marley sang about what type of wine?'
+p897
+S'Red Red Wine'
+p898
+sS'How many flowers are in the design stamped on each \n side of an Oreo cookie?'
+p899
+S'Twelve'
+p900
+sS'Who did Celine Dion support in his Canadian tour in \n 1991?'
+p901
+S'Michael Bolton'
+p902
+sS'Which tourist attraction is the only living structure visible from \n outer space?'
+p903
+S'The Great Barrier Reef'
+p904
+sS'In Ancient China what variety of meat was reserved exclusively \n for the emperor?'
+p905
+S'Pork'
+p906
+sS'Martina Navratilova has been on the winning side in the \n Federation Cup for which two countries?'
+p907
+S'Czechoslovakia & USA'
+p908
+sS'Who made NO 1 with Sledgehammer?'
+p909
+S'Peter Gabriel'
+p910
+sS'What is a Jacaranda a type of?'
+p911
+S'Tree'
+p912
+sS'What is the national dish of Hungary?'
+p913
+S'Goulash'
+p914
+sS'Who wrote the song The Last Thing On My Mind?'
+p915
+S'Tom Paxton'
+p916
+sS'What take-away is traditional in England at the seaside?'
+p917
+S'Fish and chips'
+p918
+sS'What was 11th-century Spanish military leader Rodrigo Diaz de Vivar \n better know as?'
+p919
+S'El Cid'
+p920
+sS'What overtook coca-cola as the most well known brand name \n (in the world) in 1996?'
+p921
+S'McDonalds'
+p922
+sS'What single name is more commonly applied to Holy Roman \n Emperor Charles the Great?'
+p923
+S'Charlemagne'
+p924
+sS'The gingerbread man should not have jumped onto whose back?'
+p925
+S'The sly fox'
+p926
+sS'This is the most common element in the universe?'
+p927
+S'Hydrogen'
+p928
+sS'Which Canadian-born artist was the biggest-selling singles artist tin the \n UK in 1991?'
+p929
+S'Bryan Adams'
+p930
+sS"What's the only metal that's not a solid at room \n temperature?"
+p931
+S'Mercury'
+p932
+sS'Who were Benn, Bjorn, Agnetha and Frida?'
+p933
+S'ABBA'
+p934
+sS"What's the only group to claim two of the top \n ten best-selling singles of the 1970's?"
+p935
+S'The Bee Gees'
+p936
+sS'What country has a volcano called Okinawa?'
+p937
+S'Japan'
+p938
+sS'What nut do two-thirds of its U. S. producers sell \n through Blue Diamond?'
+p939
+S'The Almond'
+p940
+sS"What city's drivers owe over $460 million in parking fines?"
+p941
+S'New York City'
+p942
+sS'This Spandau Ballet hit reached No.1 in 1991?'
+p943
+S'Gold'
+p944
+sS'Who is the main character in Kingdom Hearts?'
+p945
+S'Sora'
+p946
+sS'Homer Simpson drinks Which brand of beer regularly?'
+p947
+S'Duff'
+p948
+sS"What's the most commonly-spoken language in Belgium?"
+p949
+S'French'
+p950
+sS'Which group flew into the Hotel California?'
+p951
+S'The Eagles'
+p952
+sS'Chicken is the leading cause of what food born illness?'
+p953
+S'Salmonella poisoning'
+p954
+sS'What drupaceous fruit were Hawaiian women once forbidden by law \n to eat?'
+p955
+S'The coconut'
+p956
+sS'What can be Forked, Sheet or ball?'
+p957
+S'Lightning'
+p958
+sS'Who were defeated along with the Germans at El Alamein?'
+p959
+S'Italians'
+p960
+sS'Which is the fruit that contains the most calories?'
+p961
+S'Avocado pear'
+p962
+sS'Jasmine and long grain are both types of what?'
+p963
+S'Rice'
+p964
+sS'Who appeared on the cover of Seventeen magazine before selling \n over 11 million copies of her debut album?'
+p965
+S'Whitney Houston'
+p966
+sS'How old would Otis Redding have been had he lived \n to the end of the 20th century?'
+p967
+S'58'
+p968
+sS'In which country was the World Wide Web invented?'
+p969
+S'Switzerland'
+p970
+sS'A patent on polyester was patented first in what country?'
+p971
+S'Briton'
+p972
+sS'Worlds most remote weather station is located in what country?'
+p973
+S'Canada'
+p974
+sS'What was the only language beat writer Jack Kerouac spoke \n until the age of six?'
+p975
+S'French'
+p976
+sS'What spanish drink consists of sweet red wine, lemonade or \n soda water and decorated with fruit?'
+p977
+S'Sangria'
+p978
+sS'Cashmere is sourced from which animal?'
+p979
+S'Goat'
+p980
+sS'What has a face, hands and wheels?'
+p981
+S'Clock'
+p982
+sS"What rock group's only beardless member is Frank Beard?"
+p983
+S'ZZ Top'
+p984
+sS'What former speaker of the U.S. House has a chair \n in peace studies named for him at the University of Ulster?'
+p985
+S'Thomas P. "Tip" O\'Neill'
+p986
+sS"What country's flag is made up of the Union Jack \n and the Southern Cross?"
+p987
+S"Australia's"
+p988
+sS'When Litmus paper is in contact with Alkaline what colour \n does it become?'
+p989
+S'Blue'
+p990
+sS'Who, according to the TV commercial, \xe2\x80\x98makes exceedingly good cakes\xe2\x80\x99?'
+p991
+S'Mr Kipling'
+p992
+sS"What bankrupt Las Vegas crooner spent $75,000 to refurbish his \n pet penguins' pond?"
+p993
+S'Wayne Newton'
+p994
+sS'I will fend off anyone bad, I am mans best \n friend?'
+p995
+S'Dog'
+p996
+sS'When were the Twin Towers attacked?'
+p997
+S'September 11, 2001'
+p998
+sS'Where were murdering sisters Delfina & Maria de Jesus Gonzales \n from?'
+p999
+S'Mexico'
+p1000
+sS'Which animal appears first in the dictionary?'
+p1001
+S'Aardvark'
+p1002
+sS'Which House in London did the Queen Mother live?'
+p1003
+S'Clarence House'
+p1004
+sS'What is lava bread?'
+p1005
+S'Seaweed'
+p1006
+sS'What three European countries begin with the letter A?'
+p1007
+S'Albania'
+p1008
+sS'Which musical instrument did Pablo Casals play?'
+p1009
+S'Cello'
+p1010
+sS'Who wrote that the female of the species is more \n deadly that the male?'
+p1011
+S'Rudyard Kipling'
+p1012
+sS'What drink was sold as Diastoid when first introduced?'
+p1013
+S'Malted milk'
+p1014
+sS'What woman holds the record for most Wimbledon tennis championships?'
+p1015
+S'Billie Jean King'
+p1016
+sS'What is Acetic Acid more commonly known as?'
+p1017
+S'Vinegar'
+p1018
+sS'Which animal is the fastest, a hare, greyhound, or horse?'
+p1019
+S'Hare'
+p1020
+sS'What vegetable is also known as zucchini in the USA?'
+p1021
+S'Courgette'
+p1022
+sS'Name all the playable characters from Final Fantasy VII'
+p1023
+S'Cloud'
+p1024
+sS'What was a gladiator armed with, in addition to a \n dagger and spear?'
+p1025
+S'A net'
+p1026
+sS"Why was Finn Volmari Iso-Hollo's 1932 steeplechase win exceptional?"
+p1027
+S'He ran an extra lap by mistake'
+p1028
+sS'If steak was blue how would it be cooked?'
+p1029
+S'Very Rare'
+p1030
+sS'Which initials did rapper Hammer lose?'
+p1031
+S'M.C.'
+p1032
+sS'Digital Equipment Corporation sued what computer chip manufacturer claiming it \n stole the technology to develop the Pentium Pro?'
+p1033
+S'Intel Corporation'
+p1034
+sS'What is white-skinned and pink-eyed?'
+p1035
+S'Albino'
+p1036
+sS'What is included in a BLT sandwich?'
+p1037
+S'Bacon, lettuce and tomato'
+p1038
+sS'In Thailand, what is the sacred animal?'
+p1039
+S'The white elephant'
+p1040
+sS'What is the deadliest spider?'
+p1041
+S'The Black Widow Spider'
+p1042
+sS'My babies weigh less than apples, I eat bamboo?'
+p1043
+S'Panda bear'
+p1044
+sS"What nation produces two thirds of the world's vanilla?"
+p1045
+S'Madagascar'
+p1046
+sS'What did Bette Midler have beneath her wings?'
+p1047
+S'Wind'
+p1048
+sS"Who plays against the USA in golf's Walker Cup?"
+p1049
+S'Great Britain'
+p1050
+sS'What are the three colors on the German flag?'
+p1051
+S'black'
+p1052
+sS'What is a Natterjack?'
+p1053
+S'Toad'
+p1054
+sS'What rock star was trying to bite the head off \n a bat in concert when the bat decided to bite back?'
+p1055
+S'Ozzy Osbourne'
+p1056
+sS"In a Mcdonald's Big Mac how many pieces of bun \n are there?"
+p1057
+S'Three'
+p1058
+sS"What was Rhoda's maiden name?"
+p1059
+S'Morgenstern'
+p1060
+sS"What was Van Halen's first album after Dave Lee Roth \n left?"
+p1061
+S'5150'
+p1062
+sS'What type of lettuce was called Crisphead until the 1920s?'
+p1063
+S'Iceberg lettuce'
+p1064
+sS'What game made popular the phrase "Do a barrel roll?"'
+p1065
+S'Star Fox 64'
+p1066
+sS'From what source did William Henry Gates III amass his \n fortune?'
+p1067
+S'Computer software'
+p1068
+sS'The longest beetle in the world is how long?'
+p1069
+S'Six inches'
+p1070
+sS'What staple is laced with up to 16 additives including \n plaster of paris, to stay fresh?'
+p1071
+S'Bread'
+p1072
+sS'The worlds first mid air collision took place over what \n country?'
+p1073
+S'Austria'
+p1074
+sS'Which is the largest key on a standard keyboard?'
+p1075
+S'The Space Bar'
+p1076
+sS'In what year was the Wall Street Crash?'
+p1077
+S'1929'
+p1078
+sS'What is the correct spelling of a Cadbury Creame/Creem/Creme/Cream Egg?'
+p1079
+S'Creme'
+p1080
+sS'Which convenience food did Joel Cheek develop?'
+p1081
+S'Instant coffee'
+p1082
+sS'What American city produces most of the egg rolls sold \n in grocery stores in the United States?'
+p1083
+S'Houston, Texas'
+p1084
+sS'What is the plant that wards off vampires?'
+p1085
+S'Garlic'
+p1086
+sS'Which city is called Kapstad in Afrikaans?'
+p1087
+S'Cape Town'
+p1088
+sS'San Antonio international airport is in which state?'
+p1089
+S'Texas'
+p1090
+sS"What sport the most folks on Sports Magazine's list of \n the nine highest-paid athletes of 1990?"
+p1091
+S'Boxing'
+p1092
+sS'Who was the first U.S. President to hold a televised \n news conference?'
+p1093
+S'Dwight Eisenhower'
+p1094
+sS'What is Bombay Duck?'
+p1095
+S'Fish'
+p1096
+sS'The spots on a plaice are what color?'
+p1097
+S'Orange'
+p1098
+sS'An earthworm has how many hearts?'
+p1099
+S'5'
+p1100
+sS'What did it say on the bottle Alice drank from \n when she shrank?'
+p1101
+S'Drink Me'
+p1102
+sS"This US state is the only one starting with 'H'?"
+p1103
+S'Hawaii'
+p1104
+sS'Under what name did Jefferson Airplane regroup at the top \n of the charts?'
+p1105
+S'Starship'
+p1106
+sS'Madagascar is off which coast of Africa?'
+p1107
+S'East'
+p1108
+sS'Which Australian province has New at the beginning of its \n name?'
+p1109
+S'South Wales'
+p1110
+sS'War broke out in Biafra in the 60s when it \n broke away from which country?'
+p1111
+S'Nigeria'
+p1112
+sS'What female singer scored 14 million-selling singles between 1967 and \n 1973?'
+p1113
+S'Aretha Franklin'
+p1114
+sS'Which artist got Kangaroo in to the title of a \n top three hit?'
+p1115
+S'Rolf Harris'
+p1116
+sS'Japan sends the most what to Australia?'
+p1117
+S'Tourists'
+p1118
+sS'The main cause of the condition known as Rickets is \n the lack of what?'
+p1119
+S'Vitamin D'
+p1120
+sS'Who did Janet Jackson sing The Best things in Life \n Are Free with?'
+p1121
+S'Luther Vandross'
+p1122
+sS'India ink was developed in what country?'
+p1123
+S'China'
+p1124
+sS"Who'd never been farther east than Montana when he wrote \n Proud Mary?"
+p1125
+S'John Fogarty'
+p1126
+sS'What type of animal produces gossamer?'
+p1127
+S'Spider'
+p1128
+sS"How many of Frank Sinatra's collaborators on Duets and Duets \n II joined him in the studio?"
+p1129
+S'Zero'
+p1130
+sS'Money For Nothing was an 80s NO 1 for which \n band?'
+p1131
+S'Dire Straits'
+p1132
+sS"Under what name did the Domino's Pizza chain get its \n start?"
+p1133
+S"DomNick's"
+p1134
+sS'A fluke is what kind of animal?'
+p1135
+S'Worm'
+p1136
+sS'What tenor received a record 165 curtain calls at a \n Berlin opera house in 1988?'
+p1137
+S'Luciano Pavarotti'
+p1138
+sS'Which was the last US battalion to leave Vietnam?'
+p1139
+S'3rd Battalion, 21st Infantry'
+p1140
+sS'Michael Bond created what famous bear?'
+p1141
+S'Paddington Bear'
+p1142
+sS'The first computer used for weather research was named what?'
+p1143
+S'MANIAC'
+p1144
+sS'What type of salad do you need apple, celery, walnuts, \n raisins and mayonnaise mixed together?'
+p1145
+S'Waldorf Salad'
+p1146
+sS"What team sport's rules were first printed in 1892 in \n the newspaper of a Springfield, Massachusetts YMCA training school?"
+p1147
+S'Basketball'
+p1148
+sS'A bloomer is what type of food?'
+p1149
+S'Bread'
+p1150
+sS'Kirk Douglas was in which of the armed services in \n WWII?'
+p1151
+S'Navy'
+p1152
+sS"What personal computer became a video production system with the \n addition of New Tek's Video Toaster?"
+p1153
+S'Amiga'
+p1154
+sS'If you mix yellow and blue what colour do you \n get?'
+p1155
+S'Green'
+p1156
+sS'In what decade did the Dust Bowl devastate Midwest farmers?'
+p1157
+S'1930s'
+p1158
+sS'What species Amazonian electric variety packs a 650 volt wallop?'
+p1159
+S'The eel'
+p1160
+sS"In 1985 which group was on a 'Road To No \n Where'?"
+p1161
+S'Talking Heads'
+p1162
+sS'What animal is the symbol of long life in Korea?'
+p1163
+S'The Deer'
+p1164
+sS'Fish get oxygen through which organ?'
+p1165
+S'Gills'
+p1166
+sS'Which part of the human body does Gingivitus affect?'
+p1167
+S'Gums'
+p1168
+sS'What type of creature builds a lodge in which to \n store food, rear its young, and pass the winter?'
+p1169
+S'Beaver'
+p1170
+sS'A horse named Black Bess was ridden by who?'
+p1171
+S'Dick Trupin'
+p1172
+sS'Who hit the top ten with the Unskinny Bop?'
+p1173
+S'Poison'
+p1174
+sS'Which sense is the weakest sense in most primates?'
+p1175
+S'Sense of Smell'
+p1176
+sS'What two countries do Tyroleans come from?'
+p1177
+S'Austria and Italy'
+p1178
+sS'Which US holiday state has the Everglades National Park?'
+p1179
+S'Florida'
+p1180
+sS'What kind of creature always gives birth to same sex \n twins?'
+p1181
+S'Armadillo'
+p1182
+sS'What do you fear will stick to the roof of \n your mouth if you have arachibutyrophobia?'
+p1183
+S'Peanut Butter'
+p1184
+sS"The Dancing Baby computer generated 3D image danced it's way \n onto what TV show in 1998?"
+p1185
+S'Ally McBeal'
+p1186
+sS'Who was the youngest person to have a chart-topping solo \n single, in 1970?'
+p1187
+S'Michael Jackson'
+p1188
+sS'Animals without backbones are called what?'
+p1189
+S'Invertebrates'
+p1190
+sS'During which war was OXFAM set up?'
+p1191
+S'WWII'
+p1192
+sS"What color is the M in McDonald's?"
+p1193
+S'Yellow'
+p1194
+sS'Which city was besieged by German troops for over 900 \n days in WWII?'
+p1195
+S'Leningrad'
+p1196
+sS'What was the only hit single by Jaggerz?'
+p1197
+S'The Rapper'
+p1198
+sS'What is the animal with the Latin name "syncerus caffer"?'
+p1199
+S'Cape Buffalo'
+p1200
+sS"What 'Y' usually has 365 but sometimes 366?"
+p1201
+S'Year'
+p1202
+sS'Sika, fallow, and Roe, are what types of animal?'
+p1203
+S'Deer'
+p1204
+sS'Phrases - "A knight in shining ------"'
+p1205
+S'armour'
+p1206
+sS'What was the first No 1 single for Hall & \n Oates?'
+p1207
+S'Rich Girl'
+p1208
+sS'What classical conductor won posthumous Grammy Awards in 1991, 1992, \n and 1993?'
+p1209
+S'Leonard Bernstein'
+p1210
+sS'What were the two most popular rock operas of 1969?'
+p1211
+S'Hair and Tommy'
+p1212
+sS'How long did the Arab-Israeli War of 1967 last?'
+p1213
+S'Six days'
+p1214
+sS'What fitness guru appeared as a dancing meatball in an \n Italian TV commercial as an art student?'
+p1215
+S'Richard Simmons'
+p1216
+sS'Whose pop parody career includes the hits Addicted to Spuds, \n My Bologna and Eat It?'
+p1217
+S"Wierd Al Yankovic's"
+p1218
+sS'What energy unit is defined as the heat required to \n raise one kilogram of water by one degree Celsius?'
+p1219
+S'One Calorie'
+p1220
+sS'Who was the British TV personality that presented the show \n Animal Magic?'
+p1221
+S'Johnny Morris'
+p1222
+sS'A mandrill is what type of creature?'
+p1223
+S'Monkey'
+p1224
+sS"This Flightless Bird lays the World's largest Eggs?"
+p1225
+S'Ostrich'
+p1226
+sS'A female donkey is called a what?'
+p1227
+S'Jenny'
+p1228
+sS'How many times can a bee sting?'
+p1229
+S'Once'
+p1230
+sS'What falling fruit supposedly inspired Isaac Newton to write the \n laws of gravity?'
+p1231
+S'An Apple'
+p1232
+sS'How many of the nine planets have moons?'
+p1233
+S'Seven'
+p1234
+sS'Acapulco is in which country?'
+p1235
+S'Mexico'
+p1236
+sS'What was the convenience food that Joel Cheek developed?'
+p1237
+S'Instant Coffee'
+p1238
+sS'What C word defines a substance that speeds a chemical \n reaction without being consumed?'
+p1239
+S'Catalyst'
+p1240
+sS'What Operation was the codename for the D Day landings?'
+p1241
+S'Overlord'
+p1242
+sS'What Shania Twain recording became the best-selling country music album \n ever by a female artist, in 1996?'
+p1243
+S'The Woman in Me'
+p1244
+sS"How was the Cote D'Ivoire previously known?"
+p1245
+S'Ivory Coast'
+p1246
+sS'This City has the oldest Metro System in the world?'
+p1247
+S'London'
+p1248
+sS'What soft drink uses this slogan, "What\'s the worst that \n could happen"'
+p1249
+S'Dr Pepper'
+p1250
+sS'What sport do Fuzzy Zoeller and Kermit Zarley play?'
+p1251
+S'Golf'
+p1252
+sS'The curved line between any two points on a circle \n is referred to as what?'
+p1253
+S'An arc'
+p1254
+sS'Tony Curtis was in which of the armed services in \n WWII?'
+p1255
+S'Navy'
+p1256
+sS'What game was created by French mathematician Blaise Pascal, which \n he discovered when doing experiments into perpetual motion?'
+p1257
+S'The Game of Roulette'
+p1258
+sS'In which state is Temple University?'
+p1259
+S'Pennsylvania'
+p1260
+sS'The juice of which fruit will you find in a \n bloody mary?'
+p1261
+S'Tomato'
+p1262
+sS'What was the nickname of jazzman John Birks Gillespie?'
+p1263
+S'Dizzy'
+p1264
+sS"Which Country produces the world's best cigars?"
+p1265
+S'Cuba'
+p1266
+sS'How many minor league homeruns did Babe Ruth hit?'
+p1267
+g692
+sS'Which band produced the album Dark Side Of The Moon?'
+p1268
+S'Pink Floyd'
+p1269
+sS'Mickey Dolenz was in which 60s sensation group?'
+p1270
+S'The Monkees'
+p1271
+sS'On the birthday of a famous painter, every March 6th, \n what computer virus strikes?'
+p1272
+S'Michelangelo'
+p1273
+sS'The main ingredient of Sauerkraut is what?'
+p1274
+S'Cabbage'
+p1275
+sS'How did Greta Gustafson become better known as an actress?'
+p1276
+S'Greta Garbo'
+p1277
+sS'In which month does the Kentucky Derby take place?'
+p1278
+S'May'
+p1279
+sS'Which cheese is made in reverse?'
+p1280
+S'Edam'
+p1281
+sS'What European country uses its Latin Name, Helvetia, on its \n stamps?'
+p1282
+S'Switzerland'
+p1283
+sS'Who won the Wimbledon singles in 1998 after twice losing \n in the final?'
+p1284
+S'Jana Novotna'
+p1285
+sS'Do mosquitoes have teeth?'
+p1286
+S'yes'
+p1287
+sS'Which major weapon of war was used for the first \n time in 1916?'
+p1288
+S'Tank'
+p1289
+sS'A Curry Comb is used on what type of creature?'
+p1290
+S'Horse'
+p1291
+sS'What type of animal is the main source of food \n for a mole?'
+p1292
+S'Earthworms'
+p1293
+sS'What question ends the Ira Gershwin lines: "I got rhythm \n / I got music / I got my man..."?'
+p1294
+S'Who could ask for anything more?'
+p1295
+sS'What Beatles song advises: "One thing I can tell you \n is you got to be free"?'
+p1296
+S'Come Together'
+p1297
+sS'Calcium Carbonate is more commonly known as what?'
+p1298
+S'Chalk'
+p1299
+sS'What Beatles single lasted longest on the charts, at 19 \n weeks?'
+p1300
+S'Hey Jude'
+p1301
+sS'Which grow upwards Stalactites or Stalagmites?'
+p1302
+S'Stalagmites'
+p1303
+sS'What two Frank Sinatra hits were tops for U.S. karaoke \n singers in 1993?'
+p1304
+S'New York, New York and My Way'
+p1305
+sS"What type of creature's a bustard?"
+p1306
+S'Bird'
+p1307
+sS'This muscle is the only one not attached at both \n ends?'
+p1308
+S'The Tongue'
+p1309
+sS"What did Katrina And The Waves 'Walk On'?"
+p1310
+S'Sunshine'
+p1311
+sS'Who was the only U.S. president to have earned a \n Ph.D.?'
+p1312
+S'Woodrow Wilson'
+p1313
+sS'John F. Kennedy was one of how many children?'
+p1314
+S'Nine'
+p1315
+sS'What meat is Coq au vin made with ?'
+p1316
+S'Chicken'
+p1317
+sS'Lupus is the Latin name for what animal?'
+p1318
+S'Wolf'
+p1319
+sS'In which state did 2 Pac and Dr Dre find \n Love?'
+p1320
+S'California'
+p1321
+sS'What is a gambling game played on numbered cards?'
+p1322
+S'Bingo'
+p1323
+sS'In the 70s who put a Message In A Bottle?'
+p1324
+S'Police'
+p1325
+sS'The "D" where milk is processed?'
+p1326
+S'Dairy'
+p1327
+sS'What 20th-century conflict was dubbed the "forgotten war" despite 54,246 \n U.S. deaths?'
+p1328
+S'The Korean War'
+p1329
+sS"Which label did Toni Braxton's Un-Break My Heart appear on?"
+p1330
+S'Arista'
+p1331
+sS'What genre did Ice Cube define as "the network newscast \n black people never had"?'
+p1332
+S'Rap'
+p1333
+sS'The chinese invented this black powder to make fireworks?'
+p1334
+S'Gunpowder'
+p1335
+sS'The Saturn V rocket was built by what country?'
+p1336
+S'USA'
+p1337
+sS'To a year, when did Heart first have a top \n ten hit?'
+p1338
+S'1976'
+p1339
+sS"What nation issued the five-dollar bill found in Abraham Lincoln's \n pocket when he was shot?"
+p1340
+S'The Confederate States of America'
+p1341
+sS"What singer for a '70s British rock quartet changed his \n name from Frederick Bulsara?"
+p1342
+S'Freddie Mercury'
+p1343
+sS"What former U.S. president's son began hosting his own nightly \n talk show in 1991?"
+p1344
+S'Ronald Reagan'
+p1345
+sS'What are the two top selling spices in the world?'
+p1346
+S'Pepper and mustard'
+p1347
+sS'What is a Rastafarian hair style?'
+p1348
+S'Dreadlocks'
+p1349
+sS'What snack food did a University of South Florida engineering \n professor spend six years studying the crunch of?'
+p1350
+S'Potato Chips'
+p1351
+sS'What was the largest city in the U.S. when the \n first census was taken in 1790?'
+p1352
+S'Philadelphia'
+p1353
+sS"What only happens when it's raining according to Fleetwood Mac?"
+p1354
+S'Thunder'
+p1355
+sS'What was the name of Cheerios when it was first \n marketed 50 years ago?'
+p1356
+S'Cheerioats'
+p1357
+sS'What sense is most closely linked to memory?'
+p1358
+S'smell'
+p1359
+sS'Muhammad Ali refused to fight in which war?'
+p1360
+S'Vietnam'
+p1361
+sS'What should your diet be high in to lessen the \n chance of colon cancer, according to a 1990 study?'
+p1362
+S'Fiber'
+p1363
+sS'Aruba maintains the strongest ties to what European country?'
+p1364
+S'Netherlands'
+p1365
+sS'Animals living in what type of habitat are arboreal animals?'
+p1366
+S'In or amongst trees'
+p1367
+sS'What type of leaves does a Koala use for food?'
+p1368
+S'Eucalyptus'
+p1369
+sS"Which celebrity chef was nicknamed 'The Naked Chef'?"
+p1370
+S'Jamie Oliver'
+p1371
+sS'On a cluedo board how many rooms are there?'
+p1372
+S'9'
+p1373
+sS'What famous Greek once advised: "Let your food be your \n medicine, and your medicine be your food"?'
+p1374
+S'Hippocrates'
+p1375
+sS'What is to blink deliberately?'
+p1376
+S'Wink'
+p1377
+sS'Gran Turismo is exclusive to 1 console, what is it?'
+p1378
+S'Sony Playstation'
+p1379
+sS'This type of milk is a basic ingredient in Thai \n cookery?'
+p1380
+S'Coconut milk'
+p1381
+sS'Which lady socked it to the Harper Valley PTA?'
+p1382
+S'Jennie C Riley'
+p1383
+sS"What crooner's mother warned him not to change his name \n to Frankie Satin?"
+p1384
+S'Frank Snatra'
+p1385
+sS'What is the name of the largest land animal?'
+p1386
+S'Elephant'
+p1387
+sS'What spice gives piccalilli and curries its yellow colour?'
+p1388
+S'Turmeric'
+p1389
+sS'Which No 1 began, "Sunshine came softly through my window \n today"?'
+p1390
+S'Sunshine Superman'
+p1391
+sS'What were the names of the 3 Cartwright sons?'
+p1392
+S'Adam'
+p1393
+sS'What had Pliny the Younger seen erupt when he wrote: \n "We were terrified to see everything changed, buried in ashes like snowdrifts"?'
+p1394
+S'Mount Vesuvius'
+p1395
+sS'Which British singer recorded "Somethin\' Stupid" as a duet in \n 2001 with Nicole Kidman?'
+p1396
+S'Robbie Williams'
+p1397
+sS'A typical mayfly lives for how many days?'
+p1398
+S'One'
+p1399
+sS'This milk is a basic ingredient in Thai cookery?'
+p1400
+S'Coconut milk'
+p1401
+sS'What day of the week did the Romans call dies \n solis?'
+p1402
+S'Sunday'
+p1403
+sS'Phrases - "It came like a bolt from the ----"'
+p1404
+S'blue'
+p1405
+sS"What's a Wessex Saddleback?"
+p1406
+S'A Pig'
+p1407
+sS'Edinburgh is in which country?'
+p1408
+S'Scotland'
+p1409
+sS'What brave-hearted Scottish patriot led soldiers to a defeat of \n the English at the Battle of Cambuskenneth in 1297?'
+p1410
+S'William Wallace'
+p1411
+sS"What added ingredient keeps confectioners' sugar from clumping?"
+p1412
+S'Corn starch'
+p1413
+sS'Who recorded Macarena (bayside boys mix)?'
+p1414
+S'Los Del Rio'
+p1415
+sS'Billy Idol sang about this popular type of wedding?'
+p1416
+S'White'
+p1417
+sS"Who was Herbert Hoover's Vice President?"
+p1418
+S'Charles Curtis'
+p1419
+sS'Where did Nazi leader Rudolf Hess crash land in 1941?'
+p1420
+S'Scotland'
+p1421
+sS'What is an explosive sound, fizzy drink and type of \n song?'
+p1422
+S'Pop'
+p1423
+sS'What is the only venomous snake found in Britain?'
+p1424
+S'Adder'
+p1425
+sS'What sport causes 18,000 facial injuries each year in U.S. \n kids aged 5 to 14?'
+p1426
+S'Baseball'
+p1427
+sS'What Alabama city saw state troopers attack Civil Rights marchers \n on Edmund Pettis Bridge?'
+p1428
+S'Selma'
+p1429
+sS'What state\xe2\x80\x99s gourmets devour 3.6 cans of Spam per second, \n double the rate of the rest of the U.S.?'
+p1430
+S'Hawaii'
+p1431
+sS"Who was the Chicago police commissioner at the time of \n the St Valentine's Day massacre?"
+p1432
+S'William F Russell'
+p1433
+sS'What flavour is Ouzo?'
+p1434
+S'Aniseed'
+p1435
+sS'Phrases - "Many a ---- word is spoken in jest"'
+p1436
+S'true'
+p1437
+sS'Which all time great band featured Harrison and Starkey?'
+p1438
+S'The Beatles'
+p1439
+sS'Which actor is the dad of Jamie Lee Curtis?'
+p1440
+S'Tony Curtis'
+p1441
+sS"Which Fred is the Daily Mail's cartoon dog?"
+p1442
+S'Fred Bassett'
+p1443
+sS'What time doe the computer virus W32.MARIJUANA interrupt you to \n suggest taking a break?'
+p1444
+S'4:20 p.m.'
+p1445
+sS'Port Salut is what?'
+p1446
+S'Cheese'
+p1447
+sS'Keith Richards rocked on in which super group?'
+p1448
+S'The Rolling Stones'
+p1449
+sS'What stringed symphonic instrument has a pedestal and a crown?'
+p1450
+S'The harp'
+p1451
+sS'What is the literal meaning of the Italian word linguine?'
+p1452
+S'Little tongues'
+p1453
+sS'In a French restaurant what would you be eating if \n you chose escargots?'
+p1454
+S'Snails'
+p1455
+sS'Which disaster took lace in Kobe, Japan in 1995?'
+p1456
+S'Earthquake'
+p1457
+sS'How many rings are there on a five-zone archery target?'
+p1458
+g64
+sS'This fruit goes into the liqueur Kirsch?'
+p1459
+S'Cherry'
+p1460
+sS'Who duetted with Peabo Bryson on Beauty and the Beast?'
+p1461
+S'Celine Dion'
+p1462
+sS'What cake do you keep a layer of to eat \n at the christening of your first child?'
+p1463
+S'Wedding Cake'
+p1464
+sS'Which brand of frozen ice cream cone was advertised to \n the tune of Italian song "O Sole Mio"?'
+p1465
+S'Cornetto'
+p1466
+sS'Oyster, Chestnut, or Shitaki are types of which vegetable?'
+p1467
+S'Mushrooms'
+p1468
+sS'What veteran British rock star explained: "I smash guitars because \n I like them"?'
+p1469
+S'Pete Townshend'
+p1470
+sS'This spirit is the base for a Black Russian cocktail?'
+p1471
+S'Vodka'
+p1472
+sS'Who are the Three Tenors?'
+p1473
+S'Jose Carreras, Placido Domingo, Luciano Pavarotti'
+p1474
+sS"Alvin and the Chipmunks sang about what colour 'People Eater'?"
+p1475
+S'Purple'
+p1476
+sS"Which European country launched Europe's first super high speed passenger \n train in 1981?"
+p1477
+S'France'
+p1478
+sS'What calypso singer founded the USA For Africa charity that \n recorded We Are the World?'
+p1479
+S'Harry Belafonte'
+p1480
+sS"What's the smallest bird in the world?"
+p1481
+S'The Hummingbird'
+p1482
+sS'After mating which aptly named spider devours its partner?'
+p1483
+S'The Black Widow'
+p1484
+sS'An egg plant is also known as which vegetable?'
+p1485
+S'Aubergine'
+p1486
+sS'How many Rocky movies were made by 1990?'
+p1487
+g1100
+sS'Hal, the computer in 2001: A Space Odyssey, got its \n name how?'
+p1488
+S'The letters before I B and M'
+p1489
+sS'What kind of animals were Chi Chi and An An?'
+p1490
+S'Panda bears'
+p1491
+sS"Who's waxed more gold and platinum albums than any other \n solo female artist?"
+p1492
+S'Barbara Streisand'
+p1493
+sS'What is a light round bun usually served hot?'
+p1494
+S'Muffin'
+p1495
+sS'What election year saw bumper stickers reading "Wallace, Wallace, Uber \n Alles"?'
+p1496
+S'1968'
+p1497
+sS'What are de-headed, de-veined an sorted by size in a \n laitram machine?'
+p1498
+S'Shrimp'
+p1499
+sS"What did it 'Rain' according to the Weathergirls?"
+p1500
+S'Men'
+p1501
+sS'Which extinct creature got its name from the portuguese for \n stupid?'
+p1502
+S'Dodo'
+p1503
+sS'Which veteran rock musician said, "If I had my time \n again I would like to take up archaeology?"'
+p1504
+S'Bill Wyman'
+p1505
+sS'What would you call a cluster of bananas?'
+p1506
+S'A hand'
+p1507
+sS'Which girl got Kiss into the singles top ten for \n the first time?'
+p1508
+S'Beth'
+p1509
+sS'What famous document begins: "When in the course of human \n events..."?'
+p1510
+S'The Declaration of Independence'
+p1511
+sS'What British group got its name from the title of \n a 1950 Muddy Waters song?'
+p1512
+S'The Rolling Stones'
+p1513
+sS'What ex-president missed the slab of pork while showing off \n his ax-wielding skills to a group of Moscow butchers?'
+p1514
+S'Richard Nixon'
+p1515
+sS'Sticky and sweet this food is produced in a hive?'
+p1516
+S'Honey'
+p1517
+sS'This "King of Rock and Roll" liked you to love \n him tender!?'
+p1518
+S'Elvis Presley'
+p1519
+sS'An octopus has how many hearts?'
+p1520
+g574
+sS"What was President Yeltsin's first name?"
+p1521
+S'Boris'
+p1522
+sS'What is the Great Barrier Reef made from?'
+p1523
+S'Coral'
+p1524
+sS'Who teamed up with Paul McCartney for ebony and Ivory?'
+p1525
+S'Stevie Wonder'
+p1526
+sS'Who found himself Alone Again (Naturally)?'
+p1527
+S"Gilbert O'Sullivan"
+p1528
+sS'What was the first single of The Spice Girls?'
+p1529
+S'Wannabe'
+p1530
+sS"What colour 'roses' did Aqua sing about?"
+p1531
+S'Red'
+p1532
+sS'Whats the english translation for the french word crepe?'
+p1533
+S'Pancake'
+p1534
+sS'Which capital city has the fewest cinemas in relation to \n its population?'
+p1535
+S'Cairo'
+p1536
+sS'The EOKA were a terrorist group operating on which island?'
+p1537
+S'Cyprus'
+p1538
+sS'Which US Boys band featured three members of the Wilson \n Family?'
+p1539
+S'The Beach Boys'
+p1540
+sS'What substance is used to make soil more productive and \n help plants grow?'
+p1541
+S'Fertilizer'
+p1542
+sS'What kind of animal mates only once for 12 hours \n and can sleep for three years?'
+p1543
+S'Snail'
+p1544
+sS'What is the largest country in South America?'
+p1545
+S'Brazil'
+p1546
+sS'Which female vocalist was a member of the Eurythimics?'
+p1547
+S'Annie Lennox'
+p1548
+sS"What Jackson actually had a million-selling LP called Let's Get \n Serious?"
+p1549
+S'Jermaine Jackson'
+p1550
+sS'Who teamed up with Barbra Streisand for tell Him?'
+p1551
+S'Celine Dion'
+p1552
+sS'Manhattan Skyline and Open Sesame were on which album?'
+p1553
+S'Saturday Night Fever'
+p1554
+sS'What congressional award was Dr. Mary Edwards Walker the first \n woman to receive?'
+p1555
+S'Medal of Honor'
+p1556
+sS'What future sitcom megastar began wearing her hair red in \n 1942?'
+p1557
+S'Lucille Ball'
+p1558
+sS'Which band was fronted by Courtney Love?'
+p1559
+S'Hole'
+p1560
+sS'What Allman Brothers anthem announces: "When it\'s time to leave \n I hope you\'ll understand"?'
+p1561
+S"Ramblin' Man"
+p1562
+sS"What is a fox's den called?"
+p1563
+S'Earth'
+p1564
+sS'Which country does Rioja Wine come from?'
+p1565
+S'Spain'
+p1566
+sS'What three words preceded "land that I love" in a \n 1938 Irving Berlin tune?'
+p1567
+S'God bless America'
+p1568
+sS'What Michael Jackson album spawned five chart-topping singles?'
+p1569
+S'Bad'
+p1570
+sS'A bloomer is What type of food?'
+p1571
+S'Bread'
+p1572
+sS'What is to breathe in?'
+p1573
+S'Inhale'
+p1574
+sS'What mammals travel with yellowfin tuna?'
+p1575
+S'Dolphins'
+p1576
+sS'What country star changed his first name from Randall to \n Hank?'
+p1577
+S'Hank Williams Jr'
+p1578
+sS"Which fruit also shares its name with Gwyneth Paltrow's daughter?"
+p1579
+S'Apple'
+p1580
+sS"What was Taylor Dayne's first top ten hit?"
+p1581
+S'Tell It To My Heart'
+p1582
+sS'What hard-drinking country legend explains his bumpy life in the \n book I Lived to Tell It All?'
+p1583
+S'George Jones'
+p1584
+sS'This extinct creature got its name from the portuguese for \n stupid?'
+p1585
+S'Dodo'
+p1586
+sS"The Giant panda's favorite food is what?"
+p1587
+S'Bamboo shoots'
+p1588
+sS'Felix Cavaliere and Dino Danelli were in which group?'
+p1589
+S'Rascals'
+p1590
+sS'On a rabbit where would you find a scut?'
+p1591
+S'The tail'
+p1592
+sS'What is Deoxyribonucleic acid commonly referred to as?'
+p1593
+S'DNA'
+p1594
+sS'An abalone is what kind of animal?'
+p1595
+S'Marine snail'
+p1596
+sS'Which English city would you find Piccadilly Circus?'
+p1597
+S'London'
+p1598
+sS'This herb is used to make a Pesto sauce?'
+p1599
+S'Basil'
+p1600
+sS'What singer sent the punk band Rancid a naked photo \n along with a plea to sign with her record label?'
+p1601
+S'Madonna'
+p1602
+sS"What Georgia rockers resurrected Dan Rather's mysterious 1986 mugging in \n their 1994 track, What's the Frequency, Kenneth?"
+p1603
+S'R.E.M.'
+p1604
+sS'Who told the American public in 1974: "Our long national \n nightmare is over"?'
+p1605
+S'Gerald Ford'
+p1606
+sS'The most sensitive of the senses is what?'
+p1607
+S'Smell'
+p1608
+sS'What is the main ingredient of paella?'
+p1609
+S'Rice'
+p1610
+sS'You will find the world famous Raffles Hotel in which \n country?'
+p1611
+S'Singapore'
+p1612
+sS'What type of tree leaves are the only food that \n a koala bear will eat?'
+p1613
+S'Eucalyptus'
+p1614
+sS'Where did Mini Viva leave there heart?'
+p1615
+S'Tokyo'
+p1616
+sS'Traditionally at a fair ground what fruit would be covered \n with toffee?'
+p1617
+S'Apple'
+p1618
+sS'This "F" is preserved from prehistoric times?'
+p1619
+S'Fossil'
+p1620
+sS'What classical conductor won posthumous Grammy Awards in 1991,1992, and \n 1993?'
+p1621
+S'Leonard Bernstein'
+p1622
+sS"What three terms are represented in Newton's second law of \n motion F = ma?"
+p1623
+S'Force, mass, acceleration'
+p1624
+sS'Stephens College is in which state?'
+p1625
+S'Missouri'
+p1626
+sS"What's defined as the distance between a lens and its \n focal point?"
+p1627
+S'Focal Length'
+p1628
+sS'What is Ribonucleic acid commonly referred to as?'
+p1629
+S'RNA'
+p1630
+sS'Where does Greg Norman come from?'
+p1631
+S'Australia'
+p1632
+sS'What was officially called the Motion Picture Producers and Distributors \n of America?'
+p1633
+S'Hays Office'
+p1634
+sS'What did rapper Mohandas Dewese coolly change his name to?'
+p1635
+S'Kool Moe Dee'
+p1636
+sS'Prunes stuffed with almonds are wrapped in what to make \n Devils on horseback?'
+p1637
+S'Bacon'
+p1638
+sS'Celine Deion was born in what North American Country?'
+p1639
+S'Canada'
+p1640
+sS'A cow sweats from which part of its body?'
+p1641
+S'Nose'
+p1642
+sS'What European country was in an official state of emergency \n from 1933 until 1945?'
+p1643
+S'Germany'
+p1644
+sS'Scott Hamilton won Olympic gold for the USA on what \n surface?'
+p1645
+S'Ice'
+p1646
+sS'What planet is closest in size to our moon?'
+p1647
+S'Mercury'
+p1648
+sS'What\xe2\x80\x99s the top selling campus snack according to the American \n Association of College Stores?'
+p1649
+S'Oreo Cookies'
+p1650
+sS'In ancient Egypt what was liquorice used for?'
+p1651
+S'Medicine'
+p1652
+sS'What Southampton junior high school musical was cancelled in 1994 \n when Shinnecock Indians objected to the " Ug-a-wug" song?'
+p1653
+S'Peter Pan'
+p1654
+sS'What was it that frightened Miss Muffet away?'
+p1655
+S'A spider'
+p1656
+sS'Which American married a former King of England?'
+p1657
+S'Wallis Warfield Simpson'
+p1658
+sS'In horse racing, which triple Crown race is held on \n Long Island?'
+p1659
+S'Belmont'
+p1660
+sS'What animal was paraded through the streets of Paris on \n Mardi Gras to remind people not to eat meat during Lent?'
+p1661
+S'An ox'
+p1662
+sS'In which county is Passschendaele, scene of battle in WWI?'
+p1663
+S'Belgium'
+p1664
+sS'Which 60s icon was backed by The Band?'
+p1665
+S'Bob Dylan'
+p1666
+sS'What song includes the lines: "I\'ve lived a life that\'s \n full / I traveled each and ev\'ry highway..."?'
+p1667
+S'My Way'
+p1668
+sS"What is Mario's surname?"
+p1669
+S'Mario'
+p1670
+sS'What is the name of the evergreen shrub from which \n we get capers?'
+p1671
+S'The caper bush'
+p1672
+sS'This metal is liquid at room temperature?'
+p1673
+S'Mercury'
+p1674
+sS"In Dire Straits song 'Money For Nothing' what sort of \n oven were they singing about?"
+p1675
+S'Microwave'
+p1676
+sS'Coral and algae have what kind of relationship?'
+p1677
+S'Symbiotic'
+p1678
+sS'Which country is the maple leaf the national symbol?'
+p1679
+S'Canada'
+p1680
+sS'Which Chinese landmark was viewed from space?'
+p1681
+S'Great Wall of China'
+p1682
+sS'Red Hat and Yellow Dog are computer outfits that distributed \n an alternative computer operating system. What was the name of the system?'
+p1683
+S'Linux'
+p1684
+sS'What U.S. Democratic senator had the first internet home page?'
+p1685
+S'Ted Kennedy'
+p1686
+sS"What is Fidel Castro's real first name?"
+p1687
+S'Ruz'
+p1688
+sS'In what series of video games did Master Chief appear?'
+p1689
+S'Halo'
+p1690
+sS'Charles Rolls of Rolls Royce fame died in what type \n of vehicle?'
+p1691
+S'Airplane'
+p1692
+sS'What U.S. state boasts the most car owners?'
+p1693
+S'California'
+p1694
+sS'The name of what food, when translated, means twice-cooked?'
+p1695
+S'Biscuit'
+p1696
+sS'General music: Live and let die is a song by \n which artist?'
+p1697
+S'Paul McCartney'
+p1698
+sS'What western state led the U.S. in percent increase in \n population from 1980 to 1989?'
+p1699
+S'Nevada'
+p1700
+sS'Which Dimension had a 60s smash with Aquarius?'
+p1701
+S'5th Dimension'
+p1702
+sS'Which South American Canal joins the Atlantic to the Pacific \n oceans?'
+p1703
+S'Panama'
+p1704
+sS'What was the nationality of the jet shot down in \n Russian air space in 1983?'
+p1705
+S'Korean'
+p1706
+sS'Who is the main character from Final Fantasy VII?'
+p1707
+S'Cloud Strife'
+p1708
+sS'What sport is the winner of the Harry Vardon trophy \n playing?'
+p1709
+S'Golf'
+p1710
+sS'What scale of zero to 14 is used to measure \n acidity or alkalinity?'
+p1711
+S'The pH scale'
+p1712
+sS"What was Mario's original name?"
+p1713
+S'Jumpman'
+p1714
+sS'What political system was gradually dismantled in South Africa, starting \n in 1989?'
+p1715
+S'Apartheid'
+p1716
+sS'Which liquid product featured the hit Like A Prayer in \n its advertisement?'
+p1717
+S'Pepsi'
+p1718
+sS'In which month did the attack on Pearl Harbor take \n place?'
+p1719
+S'December'
+p1720
+sS'The FDA approved what fat substitute for use in snack \n foods even though there were reports of side affects like cramps and diarrhea?'
+p1721
+S'Olestra'
+p1722
+sS'What North American country enacted the War Powers Act to \n quell a separatist rebellion in 1970?'
+p1723
+S'Canada'
+p1724
+sS"What was Tarzan's Chimpanzee's name?"
+p1725
+S'Cheta'
+p1726
+sS'What type of thin pancake is eaten in Mexico?'
+p1727
+S'Tortilla'
+p1728
+sS'This city is famous for its oranges?'
+p1729
+S'Seville'
+p1730
+sS'What is advertised on TV with the slogan "You either \n Love it or Hate it"?'
+p1731
+S'Marmite'
+p1732
+sS'When the Amazon Lily opens What colour is the flower?'
+p1733
+S'White'
+p1734
+sS'What army publishes the newspaper The War Cry?'
+p1735
+S'the Salvation Army'
+p1736
+sS'The usual main meat ingredient of a Shish Kebab is?'
+p1737
+S'Lamb'
+p1738
+sS'How many nose jobs has Michael Jackson had, as of \n 1991, according to the book Michael Jackson: The Magic and the Madness?'
+p1739
+S'6'
+p1740
+sS'What legendary soul singer wrecked his Corvette the first time \n he drove it?'
+p1741
+S'Ray Charles'
+p1742
+sS'What was the first of H.J. Heinz\' "57 varieties"?'
+p1743
+S'Horseradish'
+p1744
+sS"What is Uganda's staple crop, which each adult consumes over \n 3 times bodyweight annually?"
+p1745
+S'Bananas'
+p1746
+sS"Which UK guitarist co-produced Bob Dylan's album Infidels?"
+p1747
+S'Mark Knopfler'
+p1748
+sS'What type of days and Mondays did the Carpenters sing \n about?'
+p1749
+S'Rainy'
+p1750
+sS"On Leonardo Da Vinci's painting 'The Last Supper'how many people \n are depicted?"
+p1751
+S'13'
+p1752
+sS"What daily vegetable do typical boxer's ears look like?"
+p1753
+S'Cauliflower'
+p1754
+sS"What's indicated by the word fine on a piece of \n sheet music?"
+p1755
+S'The end'
+p1756
+sS'Which band had a big hit with You Make Me \n Wanna?'
+p1757
+S'Usher'
+p1758
+sS'What Elton John album became the first album to enter \n the charts at Number One, in 1975?'
+p1759
+S'Captain Fantastic and the Brown Dirt Cowboy'
+p1760
+sS"What is Meg Ryan's real name?"
+p1761
+S'Margaret Hyra'
+p1762
+sS'What was the first commercially manufactured breakfast cereal?'
+p1763
+S'Shredded Wheat'
+p1764
+sS'A mint with a hole?'
+p1765
+S'Polo'
+p1766
+sS'What trumpeter became the oldest person ever to score a \n chart-topping single, in 1964?'
+p1767
+S'Louis Armstrong'
+p1768
+sS'What fellow Floridian did Jon Secada write and sing back-up \n for before going solo?'
+p1769
+S'Gloria Estefan'
+p1770
+sS"What were exterminated from Harvard's bio labs when they were \n found to be carrying radioactive chemicals into the walls?"
+p1771
+S'Ants'
+p1772
+sS'In the 19th Century what creatures were frequently used to \n bleed patients?'
+p1773
+S'Leeches'
+p1774
+sS'What recipe, first published 50 years ago, has been requested \n most frequently through the years by the readers of "Better Homes and Garden"?'
+p1775
+S'Hamburger Pie'
+p1776
+sS'What 1976 and 1991 hit begins: "Is this the real \n life / Is this just fantasy"?'
+p1777
+S'Bohemian Rhapsody'
+p1778
+sS'Which member of Take That shares his surname with a \n fruit?'
+p1779
+S'Jason Orange'
+p1780
+sS'What type of trees yield the resin used to produce \n turpentine?'
+p1781
+S'Pine trees'
+p1782
+sS'What type of oven will not brown foods?'
+p1783
+S'Microwave oven'
+p1784
+sS"What rock star did Lou Diamond Phillips' wife leave him \n for?"
+p1785
+S'Melissa Etheridge'
+p1786
+sS"What rock group is immortalized on Butt-head's T-shirt?"
+p1787
+S'AC/DC'
+p1788
+sS'In what year did the US death toll in Vietnam \n first exceed that in Korea?'
+p1789
+S'1969'
+p1790
+sS'Originally, ENIAC, the world\'s first "modern" computer was constructed to \n do what?'
+p1791
+S'To compute ballistic trajectories for artillery shells'
+p1792
+sS"What is your father's brother?"
+p1793
+S'Uncle'
+p1794
+sS'What lawn sport\xe2\x80\x99s popularity put an abrupt end to the \n croquet craze if the late 1800\xe2\x80\x99s?'
+p1795
+S'Tennis'
+p1796
+sS"In which decade did people last get the chance to \n see Halley's Comet?"
+p1797
+S'1980s'
+p1798
+sS'Who talked of eating human liver washed down with Chianti?'
+p1799
+S'Hannibal Lecter'
+p1800
+sS'In which country is an Afghani a unit of currency?'
+p1801
+S'Afghanistan'
+p1802
+sS'Which astronaut said, "Four days vacation and see the world?"'
+p1803
+S'Jim Lovell'
+p1804
+sS'What Broadway musical revival did Lou Diamond Philips refuse to \n shave the top of his head for, in 1996?'
+p1805
+S'The King and I'
+p1806
+sS'Who co-wrote Fame with David Bowie?'
+p1807
+S'John Lennon'
+p1808
+sS"What song-writing duo's hits made it to Broadway in the \n show Smokey Joe's Cafe?"
+p1809
+S'Leiber and Stoller'
+p1810
+sS"The name of the RAF's aerobatics team is?"
+p1811
+S'Red Arrows'
+p1812
+sS'What ethnic group was largely responsible for building most of \n the early railways in the U.S. West?'
+p1813
+S'The Chinese'
+p1814
+sS'What sort of pastry is used to make profiteroles?'
+p1815
+S'Choux'
+p1816
+sS"What's the only rock edible to man?"
+p1817
+S'Salt'
+p1818
+sS'Which was the first Beatle to become a granddad?'
+p1819
+S'Ringo Starr'
+p1820
+sS'What U.S. city was once know as Federal City?'
+p1821
+S'Washington, D.C.'
+p1822
+sS'During World War I what kind of gas was used \n in the trenches?'
+p1823
+S'Mustard gas'
+p1824
+sS"What's a Natterjack?"
+p1825
+S'A Toad'
+p1826
+sS'In WWII who was in charge of the Afrika Korps?'
+p1827
+S'Rommel'
+p1828
+sS'The Suidae family is made up of what animals?'
+p1829
+S'Pigs'
+p1830
+sS'What is the postal abbreviation for Idaho?'
+p1831
+S'ID'
+p1832
+sS'What is the London Underground?'
+p1833
+S'Tube'
+p1834
+sS'In 1978 how many weeks at No 1 were taken \n up by the Gibb family?'
+p1835
+S'28'
+p1836
+sS'The town of Tequila is in which country?'
+p1837
+S'Mexico'
+p1838
+sS'A rubiks cube has how many colored squares?'
+p1839
+S'54'
+p1840
+sS"Which group had 80s hits with Hard To Say I'm \n Sorry and Look Away?"
+p1841
+S'Chicago'
+p1842
+sS'In which state did both Kennedy and Johnson die?'
+p1843
+S'Texas'
+p1844
+sS'Stonehenge is in which English county?'
+p1845
+S'Wiltshire'
+p1846
+sS'What method of underwater detection is short for "sound navigation \n and ranging"?'
+p1847
+S'Sonar'
+p1848
+sS"Argentina's east coast lies on which ocean?"
+p1849
+S'Atlantic'
+p1850
+sS'Movie maker George Lucas Filed a law suit against President \n Ronald Reagan to get him to stop referring to an outer space computer controlled defense system as what?'
+p1851
+S'Star Wars'
+p1852
+sS'What is the only fruit that grows its seeds on \n the outside?'
+p1853
+S'Strawberry'
+p1854
+sS'Who ruled England from 827 until 860?'
+p1855
+S'Egbert'
+p1856
+sS"What folk-rocker said he'd like Billy Dee Williams or Mickey \n Rooney to play him if his life story is filmed?"
+p1857
+S'Bob Dylan'
+p1858
+sS'A sidewinder is what type of creature?'
+p1859
+S'A snake'
+p1860
+sS"Walt Disney's famous deer was named what?"
+p1861
+S'Bambi'
+p1862
+sS'The French underground is called what?'
+p1863
+S'Metro'
+p1864
+sS'What studio did the Beatles use to record 191 songs?'
+p1865
+S'Abby Road'
+p1866
+sS'Why is the funny bone so called?'
+p1867
+S"It's the humerus"
+p1868
+sS'An acrophobic fears what?'
+p1869
+S'Heights'
+p1870
+sS'What MTV twosome are known as "The Bad Boys" in \n Mexico?'
+p1871
+S'Beavis and Butt-head'
+p1872
+sS'What does a carpophagus animal feed on?'
+p1873
+S'Fruit'
+p1874
+sS"Who did Elton John originally duet with on Don't Go \n Breaking My Heart?"
+p1875
+S'Kiki Dee'
+p1876
+sS'In 1989, what country did the United States invade in \n what George Will dubbed "an act of hemispheric hygiene"?'
+p1877
+S'Panama'
+p1878
+sS'What are small cubes of toasted or fried bread?'
+p1879
+S'Croutons'
+p1880
+sS'If I take two apples out of a basket containing \n six apples how many apples do I have ?'
+p1881
+S'Two'
+p1882
+sS'Who was back in the Angels classic 60s NO 1?'
+p1883
+S'My Boyfriend'
+p1884
+sS'On what vegetable did an ancient Egyptian place his right \n hand when taking an oath?'
+p1885
+S'The onion'
+p1886
+sS'Were the Doobie Brothers actually brothers?'
+p1887
+S'No'
+p1888
+sS"Which of the inmates who heard Johnny Cash's 1958 San \n Quentin concert became the biggest country music star?"
+p1889
+S'Merle Haggard'
+p1890
+sS'Phrases - "Keep a stiff upper ---"'
+p1891
+S'lip'
+p1892
+sS'Where did the pineapple plant originate?'
+p1893
+S'South America'
+p1894
+sS"In which 20th-century decade was Barbie's boyfriend Ken first made?"
+p1895
+S'60s'
+p1896
+sS"What were ladies asked not to wear at Prince Edward's \n UK wedding?"
+p1897
+S'Hats'
+p1898
+sS'What opera star sold more recordings in 1990 than all \n but Madonna and Elton John?'
+p1899
+S'Luciano Pavarottti'
+p1900
+sS'Lesotho is a southern African Kingdom surround by which country?'
+p1901
+S'South Africa'
+p1902
+sS'What process involves heating an ore to obtain a metal?'
+p1903
+S'Smelting'
+p1904
+sS'Who has accumulated the most UK and US top ten \n albums and grossed most income from foreign touring?'
+p1905
+S'Rolling Stones'
+p1906
+sS'The study of birds eggs is called what?'
+p1907
+S'Oology'
+p1908
+sS'What variety of banana shares its name with the title \n of a Bond movie?'
+p1909
+S'Goldfinger'
+p1910
+sS'How many boys were there in The Pet Shop Boys?'
+p1911
+S'Two'
+p1912
+sS'Which animal has rectangular pupils?'
+p1913
+S'Goat'
+p1914
+sS'Celeste was the wife of which fictional animal?'
+p1915
+S'Babar the Elephant'
+p1916
+sS'In the dish of Beef Wellington, in what is the \n beef wrapped?'
+p1917
+S'Pastry'
+p1918
+sS'Which of the 48 contiguous U.S. states has the fewest \n people?'
+p1919
+S'Wyoming'
+p1920
+sS'This carbohydrate fruit is high in potassium?'
+p1921
+S'Banana'
+p1922
+sS'Who was ordered to apologize for slapping Private Paul G. \n Bennett in the fact?'
+p1923
+S'General George S Patton, Jr.'
+p1924
+sS'What breakfast cereal was Sonny the Cuckoo Bird "cuckoo for"?'
+p1925
+S'Cocoa Puffs'
+p1926
+sS'According to many singers over the years ... What keep \n falling on their head?'
+p1927
+S'Raindrops'
+p1928
+sS'Which song sang by Queen contains the line, One dream \n one soul, one prize, one goal?'
+p1929
+S'A Kind Of Magic'
+p1930
+sS'Vision Of Love was the first British top ten hit \n for which female superstar?'
+p1931
+S'Mariah Carey'
+p1932
+sS'What country saw the cultivation of the first potato, in \n 200 A.D.?'
+p1933
+S'South America'
+p1934
+sS'In square miles, how big is Lake Ontario?'
+p1935
+S'7,550'
+p1936
+sS'What kind of animals live in an apiary?'
+p1937
+S'Bees'
+p1938
+sS'What kind of animal is the source of mohair?'
+p1939
+S'Angora Goat'
+p1940
+sS"How did 1940s British murderer John Haigh dispose of his \n victims' bodies?"
+p1941
+S'Acid bath'
+p1942
+sS'In Canada what is the NHL?'
+p1943
+S'National Hockey League'
+p1944
+sS'Charlie the pet dog was replace by what in the \n remake of the Absent-minded Professor called "Flubber" in 1997?'
+p1945
+S'Weebo, the computer'
+p1946
+sS'How many humps does an African camel have?'
+p1947
+S'One'
+p1948
+sS'Which country consumes the most pasta per person per year?'
+p1949
+S'Italy'
+p1950
+sS'Who is the main character from Final Fantasy IX?'
+p1951
+S'Zidane Tribal'
+p1952
+sS"Van Morrison sang about what 'Eyed Girl'?"
+p1953
+S'Brown'
+p1954
+sS"Which Barry had 70s chart success with Never Never Gonna \n Give You Up and Can't Get Enough Of Your Love Babe?"
+p1955
+S'White'
+p1956
+sS'From which animal does haggis come?'
+p1957
+S'Sheep'
+p1958
+sS"Where is the world's largest soccer stadium?"
+p1959
+S'Rio De Janeiro, Brazil'
+p1960
+sS"What rock'n'roll singer is memorialized by a eight-foot bronze statue \n in Lubbock, Texas?"
+p1961
+S'Buddy Holly'
+p1962
+sS"What's colour of the inside of a pistachio nut?"
+p1963
+S'Green'
+p1964
+sS'In cockney rhyming slang what is "Ruby Murray"?'
+p1965
+S'Curry'
+p1966
+sS'In what field of study are the terms CPU, PC, \n and VDU used?'
+p1967
+S'Computer Science'
+p1968
+sS'Which variety of orange was named after a Japanese province?'
+p1969
+S'Satsuma'
+p1970
+sS'Apart from potato What is the other main ingredient of \n Bubble and Squeak?'
+p1971
+S'Cabbage'
+p1972
+sS'In South America what is the largest country?'
+p1973
+S'Brazil'
+p1974
+sS'Which band recorded the album Parallel Lines?'
+p1975
+S'Blondie'
+p1976
+sS'To signal the end of the flood which bird brought \n back a twig to Noah?'
+p1977
+S'The dove'
+p1978
+sS'In football, where do the Chargers come from?'
+p1979
+S'San Diego'
+p1980
+sS'Who did Chuck Berry say "could play a guitar just \n like ringing a bell"?'
+p1981
+S'Johnny B. Goode'
+p1982
+sS'What floral symbol do the country of Peru and the \n state of Kansas have in common?'
+p1983
+S'The sunflower'
+p1984
+sS'What kind of animal was "Gentle Ben" on the TV \n show?'
+p1985
+S'A Bear'
+p1986
+sS"The 'M' in the McDonalds logo is what colour?"
+p1987
+S'Yellow'
+p1988
+sS"Which one of England's biggest shipping ports is famous for \n being the port that the Titanic left from?"
+p1989
+S'Southampton'
+p1990
+sS'Tusk was a best-selling album for which band?'
+p1991
+S'Fleetwood Mac'
+p1992
+sS'Adolf Hitler was born in what country?'
+p1993
+S'Austria'
+p1994
+sS'Federal labeling regulations require how much caffeine be removed from \n coffee for it to be called decaffeinated?'
+p1995
+S'Ninety seven percent'
+p1996
+sS'What word can go before - Quartet, bean, and vest?'
+p1997
+S'String'
+p1998
+sS'What Pink Floyd song was banned by the South African \n government after it became an anthem for black school children?'
+p1999
+S'Another Brick in the Wall'
+p2000
+sS'Daddy Long Legs is the common name for which fly?'
+p2001
+S'Crane Fly'
+p2002
+sS'What modern vehicle was invented to circumvent trench warfare?'
+p2003
+S'The Tank'
+p2004
+sS'In Eggs Florentine which vegetable is a main ingredient?'
+p2005
+S'Spinach'
+p2006
+sS'On what date did Elton John first sing his biggest-selling \n single in public?'
+p2007
+S'September 6th, 1997'
+p2008
+sS'What did Republicans call the platform they hyped in the \n 1994 Congressional elections?'
+p2009
+S'The Contract With America'
+p2010
+sS"What kind of animals don't hunt or eat any meat?"
+p2011
+S'Herbivore'
+p2012
+sS'What fruit grows on the blackthorn tree?'
+p2013
+S'Sloe'
+p2014
+sS'What nuts are used to flavour amaretto?'
+p2015
+S'Almonds'
+p2016
+sS'The Scapula is in which part of the body?'
+p2017
+S'Shoulder blade'
+p2018
+sS"What bird can swim but can't fly?"
+p2019
+S'Penguin'
+p2020
+sS'Rhinitis affects which part of the body?'
+p2021
+S'The Nose'
+p2022
+sS'Moby Dick was what color?'
+p2023
+S'White'
+p2024
+sS'What type of animal is the symbol of medicine?'
+p2025
+S'Snake'
+p2026
+sS'What unit of electrical power is equal to one joule \n per second?'
+p2027
+S'The Watt'
+p2028
+sS'Which US general along with Schwarzkopf was leader in the \n Gulf War?'
+p2029
+S'Powell'
+p2030
+sS'Victoria Principal sang All I Have To Do Is Dream \n with which Gibb?'
+p2031
+S'Andy'
+p2032
+sS'Which fruit served with cream is eaten during the summer \n tennis tournament Wimbledon?'
+p2033
+S'Strawberries'
+p2034
+sS'What is the only fruit named for its colour?'
+p2035
+S'Orange'
+p2036
+sS"What's the groundnut better known as?"
+p2037
+S'The peanut'
+p2038
+sS'What were the names of the two bears that lived \n in Jellystone park?'
+p2039
+S'Yogi and Boo Boo'
+p2040
+sS'Chicory was a war time substitute for what drink?'
+p2041
+S'Coffee'
+p2042
+sS'What star sign is "Gladys Knight?'
+p2043
+S'Gemini'
+p2044
+sS'Magician David Kotkin managed to change his name to what?'
+p2045
+S'David Copperfield'
+p2046
+sS'What is the main vegetable ingredient in the dish Borsht?'
+p2047
+S'Beetroot'
+p2048
+sS'The cabbage moth is which colour?'
+p2049
+S'Brown'
+p2050
+sS'What did cleaning crews remove 600 pounds of from the \n Statue of Liberty in 1990?'
+p2051
+S'Chewing Gum'
+p2052
+sS'The main cereal ingredient of flapkacks (Hudson Bars in USA)?'
+p2053
+S'Oats'
+p2054
+sS'The most Asian elephants to be found in their natural \n habitat can be found in what country?'
+p2055
+S'India'
+p2056
+sS'What type of insect eats its mate after mating?'
+p2057
+S'Preying Mantis'
+p2058
+sS'What is the main vegetable used to make Borsch?'
+p2059
+S'Beetroot'
+p2060
+sS'Whose hits include Bad Moon Rising and Green River?'
+p2061
+S'Creedence Clearwater Revival'
+p2062
+sS'What are baby elephants called?'
+p2063
+S'Calves'
+p2064
+sS'What sport did two teams of Union Army soldiers play \n before a crowd of 40,000 at Hilton Head, South Carolina in 1862?'
+p2065
+S'Baseball'
+p2066
+sS'On a common lady bug, what color are the spots?'
+p2067
+S'Black'
+p2068
+sS'Which product is advertised on TV with the slogan, \xe2\x80\x9cOnce \n you pop you can\xe2\x80\x99t stop\xe2\x80\x9d?'
+p2069
+S'Pringles'
+p2070
+sS"What's a small pickled cucumber?"
+p2071
+S'Gherkin'
+p2072
+sS'What O-word describes oxygen with molecules that have three atoms \n instead of two?'
+p2073
+S'Ozone'
+p2074
+sS'In which country did the Red Brigades operate in the \n late 70s?'
+p2075
+S'Italy'
+p2076
+sS'How many singles did Bruce Springsteen put atop Billboard charts \n in the 1980s?'
+p2077
+S'Zero'
+p2078
+sS'What civil rights leader did Dorothy Parker leave the bulk \n of her estate to?'
+p2079
+S'Martin Luther King Jr'
+p2080
+sS'What video game made the Golden Gun famous?'
+p2081
+S'Goldeneye'
+p2082
+sS'This chick pea pure\xc3\xa9 is flavoured with tahini and served \n as a dip?'
+p2083
+S'Hummus'
+p2084
+sS'What method of preserving food did the Incas first use, \n on potatoes?'
+p2085
+S'Freeze-drying'
+p2086
+sS"Who played Sportin' Life in the film Porgy and Bess?"
+p2087
+S'Sammy Davis Jr'
+p2088
+sS'How long does it take the moon to revolve around \n the Earth, to the nearest day?'
+p2089
+S'27'
+p2090
+sS'Bandleader Glenn Miller was last seen in an aircraft leaving \n which country?'
+p2091
+S'England'
+p2092
+sS'In Winnie the Pooh, what kind of animal is Eeyore?'
+p2093
+S'Donkey'
+p2094
+sS'Which state is called the volunteer State?'
+p2095
+S'Tennessee'
+p2096
+sS'A crapulous person is full of what?'
+p2097
+S'Alcohol'
+p2098
+sS"What president was shot while walking to California Governor Jerry \n Brown' office?"
+p2099
+S'Gerald Ford'
+p2100
+sS'What letter is between Q and E on a computer \n keyboard?'
+p2101
+S'W'
+p2102
+sS'What group\'s lead guitar player is known for his guitar \n amps with control knobs that go up to 11, "one more than 10"?'
+p2103
+S'Spinal Tap'
+p2104
+sS'Which country lost over seventeen percent of its entire population \n in World War II?'
+p2105
+S'Poland'
+p2106
+sS'What is another name for a Guinea Pig?'
+p2107
+S'Cavy'
+p2108
+sS'What patriotic song was originally titled "The Defense of Fort \n McHenry?'
+p2109
+S'The Star Spangled Banner'
+p2110
+sS'What animals milk is used to make authentic Italian mozzarella \n cheese?'
+p2111
+S"The water buffalo's"
+p2112
+sS'The city of Vienna stands on which river?'
+p2113
+S'Danube'
+p2114
+sS"Who's responsible for the LPs Shamrocks and Champagne, Bubbles in \n the Wine and Pick-a-Polka?"
+p2115
+S'Lawrence Welk'
+p2116
+sS'What type of egg will yield 11 and one-half average-size \n omelettes?'
+p2117
+S'An Ostrich egg'
+p2118
+sS'A markhor is what type of animal?'
+p2119
+S'Wild goat'
+p2120
+sS'Who saw the turtleneck he wore at cease-fire talks in \n Bosnia fetch $5,000 at auction?'
+p2121
+S'Jimmy Carter'
+p2122
+sS'What Hollywood actress was The Oomph Girl?'
+p2123
+S'Ann Sheridan'
+p2124
+sS"After breaking into physicist Tsutomu Shimomura's computer on Christmas in \n 1994, what legendary hacker was taken down?"
+p2125
+S'Kevin Mitnick'
+p2126
+sS"What was Heart's first No 1 hit?"
+p2127
+S'These Dreams'
+p2128
+sS'Which food has a name which means on a skewer?'
+p2129
+S'Kebab'
+p2130
+sS'This is converted into alcohol during brewing?'
+p2131
+S'Sugar'
+p2132
+sS'What band is named after a scuplture in Seattle that \n hums in the wind?'
+p2133
+S'Soundgarden'
+p2134
+sS'What did Def Leppard drummer Rick Allen lose in a \n 1984 auto accident?'
+p2135
+S'An arm'
+p2136
+sS"Who was Sega's mascot?"
+p2137
+S'Sonic the Hedgehog'
+p2138
+sS'This gemstone is used to symbolize fourty years of marriage?'
+p2139
+S'Ruby'
+p2140
+sS'Which disaster occured the night of the 14-15 April 1912?'
+p2141
+S'The Titanic Sunk'
+p2142
+sS'What is a magazine, temporary fashion, and sung by Madonna?'
+p2143
+S'Vogue'
+p2144
+sS'What edible comes in crimmini, morel, oyster and wood ear \n varieties?'
+p2145
+S'Mushrooms'
+p2146
+sS'What player squats an average of 300 times during a \n doubleheader?'
+p2147
+S'the catcher'
+p2148
+sS'How many calories are there in a stick of celery?'
+p2149
+S'None'
+p2150
+sS'What was the last No 1 in the 60s?'
+p2151
+S"Someday We'll Be Together"
+p2152
+sS'The staple diet of a Koala bear is what?'
+p2153
+S'Eucalyptus Leaves'
+p2154
+sS'Which illness caused twice as many fatalities in America and \n Europe in 1917-18 as there were in WWI?'
+p2155
+S'Flu'
+p2156
+sS'What Italian Cheese usually tops a pizza?'
+p2157
+S'Mozzarella'
+p2158
+sS'Which nut is used to flavour traditional Bakewell Tart?'
+p2159
+S'Almond'
+p2160
+sS'The Teenage Mutant Ninja Turtles favourite food is?'
+p2161
+S'Pizza'
+p2162
+sS'Who was backed by The Shondells?'
+p2163
+S'Tommy James'
+p2164
+sS'Which country pulled out of Vietnam in the 1950s?'
+p2165
+S'France'
+p2166
+sS"What's the most malleable metal?"
+p2167
+S'Gold'
+p2168
+sS'What is another name for almond paste?'
+p2169
+S'Marzipan'
+p2170
+sS'What animals did the Ricardos and Mertzes attempt to raise \n for profit upon moving to Connecticut?'
+p2171
+S'Chickens'
+p2172
+sS'Who invented Margarine in 1868?'
+p2173
+S'Hyppolyte Merge-mouries'
+p2174
+sS'What are the Islas Canarias in English?'
+p2175
+S'Canary Islands'
+p2176
+sS"What's the smallest paper size - A3, A4 or A5?"
+p2177
+S'A5'
+p2178
+sS'What late pun rocker did Debbie Gibson try to contact \n during a Halloween s\xc3\xa9ance in 1988?'
+p2179
+S'Sid Vicious'
+p2180
+sS'Who was the first female artist to debut on the \n Billboard album chart at Number One?'
+p2181
+S'Whitney Houston'
+p2182
+sS"What creature was Will Smith's codename in the movie Independence \n day?"
+p2183
+S'Eagle'
+p2184
+sS'Who stomped off a 1995 Lollapalooza stage after a fan \n of her late husband threw a shotgun shell at her feet?'
+p2185
+S'Courtney Love'
+p2186
+sS'What name can be a lettuce or a mass of \n floating frozen water?'
+p2187
+S'Iceberg'
+p2188
+sS'What dickens character said: "Please, sir, I want some more"?'
+p2189
+S'Oliver Twist'
+p2190
+sS'This part of the human anatomy shares its name with \n a punctuation mark?'
+p2191
+S'Colon'
+p2192
+sS'The main ingredient of a Paella is what?'
+p2193
+S'Rice'
+p2194
+sS'What is the offspring of a mare and a male \n ass called?'
+p2195
+S'A mule'
+p2196
+sS'What is the name given to the young of a \n Kangaroo?'
+p2197
+S'Joey'
+p2198
+sS'A fennec is what type of animal?'
+p2199
+S'A Desert Fox'
+p2200
+sS'What does Simon Wiesenthal hunt?'
+p2201
+S'fugitive Nazis'
+p2202
+sS'What 23-year-old Tejano singer was murdered by her fan club \n president?'
+p2203
+S'Selena'
+p2204
+sS'This dairy product tastes good on crackers and sandwiches or \n on its own?'
+p2205
+S'Cheese'
+p2206
+sS'Put the 5 vowels in order!'
+p2207
+S'AEIOU'
+p2208
+sS'How many sizes of chicken eggs does the USDA recognize, \n including peewee?'
+p2209
+S'Six'
+p2210
+sS'During brewing what is converted into alcohol?'
+p2211
+S'Sugar'
+p2212
+sS'What Stephen Foster tune encourages racing enthusiasts to "bet on \n de bay"?'
+p2213
+S'Camptown Races'
+p2214
+sS'What songstress died before the release of her cross-over album \n Dreaming of You?'
+p2215
+S'Selena'
+p2216
+sS"What was Michael Jackson's debut hit away from the Jackson \n 5?"
+p2217
+S'Got To Be There'
+p2218
+sS'What measure of energy comes from the Latin word meaning \n "heat"?'
+p2219
+S'The calorie'
+p2220
+sS'Discovered in the 30s, Jonker and President Vargas were types \n of what?'
+p2221
+S'Diamond'
+p2222
+sS'What ingredient in fresh milk is eventually devoured by bacteria, \n causing the sour taste?'
+p2223
+S'Lactose'
+p2224
+sS'Which brand of beer features a kangaroo on the packaging?'
+p2225
+S'Fosters'
+p2226
+sS'What do the brits call a Weenie?'
+p2227
+S'A hot dog'
+p2228
+sS"Which fruit does one of Bob Geldofs' daughter share a \n name with?"
+p2229
+S'Peaches'
+p2230
+sS'What did the letter O stand for in ELO?'
+p2231
+S'Orchestra'
+p2232
+sS'Where is the Louvre Art Museum?'
+p2233
+S'Paris'
+p2234
+sS'Which heavy metal group took the name of Dutch-born members \n guitarist Eddie and drummer Alex?'
+p2235
+S'Van Halen'
+p2236
+sS'Portugal is bordered by only want country, what is it?'
+p2237
+S'Spain'
+p2238
+sS'What kind of fruit was used to name a computer \n in 1984?'
+p2239
+S'Apple'
+p2240
+s.
