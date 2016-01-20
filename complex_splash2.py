@@ -10,13 +10,75 @@ import time
 import random
 import pickle
 
-def wait_on_enter():
-    entered = False
-    while not entered:
-        key = win.getKey()
-        if key == 'Return':
-            entered = True
+class App(object):
+    
+    def __init__(self):
+        self.win = graphics.GraphWin("Complex Splash", 600, 400)
+        self.texts = self.get_texts()
+        self.entry = graphics.Entry(graphics.Point(300, 100), 10)
+        self.pics = self.get_pics()
+        
+    
+    def get_texts(self):
+        """Make all of the text objects for the game"""
+        texts = {}
+        t1 = "Welcome to Complex Splash!!"
+        texts['main'] = graphics.Text(graphics.Point(300,50), t1)
+        texts['main'].setFace('arial')
+        texts['main'].setTextColor('red')
+        texts['main'].setSize(32)
+        t2 = "In this game you will  be able to learn and have fun at the same time!"
+        texts['sub'] = graphics.Text(graphics.Point(300,200), t2)
+        texts['sub'].setFace('arial')
+        texts['menu'] = graphics.Text(graphics.Point(300,50), "Please Enter Your Username")
+        return texts
+        
+    def get_pics(self):
+        pass
+    
+    def clear_all(self):
+        """Removes all texts and images from window"""
+        for x in self.texts.values() + self.pics.values() + [self.entry]:
+            try:
+                x.undraw()
+            except graphics.GraphicsError:
+                pass
             
+    def wait_on_enter(self):
+        """Pause the game until the user hits the enter key"""
+        entered = False
+        while not entered:
+            key = self.win.getKey()
+            if key == 'Return':
+                entered = True
+
+    def question_game(self):
+        """Main loop for first/trivia game"""
+        self.clear_all()
+        self.texts['menu'].draw(self.win)
+        self.entry.draw(self.win)
+        self.wait_on_enter()
+
+    def introduction(self):
+        """Just draws the intro screen"""
+        self.texts['main'].draw()
+        self.texts['sum'].draw()
+    
+    def run(self):
+        """Start a game"""
+        self.win.setBackground('white')
+        self.introduction()
+        self.win.getMouse()
+        self.question_game()
+        self.win.getMouse()
+        self        
+        
+        
+        
+if __name__ == '__main__':
+    app = App()
+    app.run()
+                
 def random_move(block, direction):
     if random.randint(0,50) == 1:
         if block.anchor.y <= 25:
@@ -50,30 +112,8 @@ def collision_detection(pic1, pic2):
             collision = True
     return collision
 
-#Setup window
-win = graphics.GraphWin("Complex Splash", 600, 400)
-win.setBackground('white')
-
-#Intro
-t = graphics.Text(graphics.Point(300,50), "Welcome to Complex Splash!!")
-t2 = graphics.Text(graphics.Point(300,200), "In this game you will  be able to learn and have fun at the same time!")
-t.setFace('arial')
-t.setTextColor('red')
-t.setSize(32)
-t2.setFace('arial')
-t.draw(win)
-t2.draw(win)
-win.getMouse()
-t.undraw()
-t2.undraw()
-
 #Main menu
 #Username
-menu_prompt = graphics.Text(graphics.Point(300,50), "Please Enter Your Username")
-menu_prompt.draw(win)
-menu_entry = graphics.Entry(graphics.Point(300, 100), 10)
-menu_entry.draw(win)
-wait_on_enter()
 player = menu_entry.getText()
 t2.setText('Greetings, young {}!'.format(player))
 t2.draw(win)
@@ -104,9 +144,9 @@ t2.undraw()
     
 #Dunked head
 menu_prompt.setText('Select a person to be dunked')
-dj = graphics.Image(graphics.Point(130, 150), 'data/dj.gif')
-jk = graphics.Image(graphics.Point(300, 150), 'data/jk.gif')
-bm = graphics.Image(graphics.Point(470, 150), 'data/bm.gif')
+dj = graphics.Image(graphics.Point(130, 150), 'dj.gif')
+jk = graphics.Image(graphics.Point(300, 150), 'jk.gif')
+bm = graphics.Image(graphics.Point(470, 150), 'bm.gif')
 dj.draw(win)
 jk.draw(win)
 bm.draw(win)
@@ -224,14 +264,14 @@ if num_correct > 0:
     
     #Make and draw pieces
     shield_x = [100, 250, 450]
-    ball = graphics.Image(graphics.Point(25, 150), 'data/water_balloon.gif') 
+    ball = graphics.Image(graphics.Point(25, 150), 'water_balloon.gif') 
     if button_clicked == 1:
-        head = graphics.Image(graphics.Point(575, 200), 'data/dj_small.gif')
+        head = graphics.Image(graphics.Point(575, 200), 'dj_small.gif')
     elif button_clicked == 2:
-        head = graphics.Image(graphics.Point(575, 200), 'data/jk_small.gif')
+        head = graphics.Image(graphics.Point(575, 200), 'jk_small.gif')
     elif button_clicked == 3:
-        head = graphics.Image(graphics.Point(575, 200), 'data/bm_small.gif')
-    shields = [graphics.Image(graphics.Point(x, 150), 'data/shield.gif') for x in shield_x]
+        head = graphics.Image(graphics.Point(575, 200), 'bm_small.gif')
+    shields = [graphics.Image(graphics.Point(x, 150), 'shield.gif') for x in shield_x]
     results = graphics.Text(graphics.Point(300,50), '')
     results.setSize(32)
     for x in shields + [ball, head, results, display_time]:
