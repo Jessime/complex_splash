@@ -183,7 +183,7 @@ elif button_clicked == 3:
     bm.undraw()
 
 #load questions
-qa = pickle.load(open('questions.txt'))
+qa = pickle.load(open('data/questions.txt'))
 
 #set time and score for questions
 current_time = time.time()
@@ -292,7 +292,7 @@ if num_correct > 0:
         #check for balloon hitting head
         score = collision_detection(ball, head)
         if score:
-            splash = graphics.Image(head.getAnchor(), 'splash.gif')
+            splash = graphics.Image(head.getAnchor(), 'data/splash.gif')
             splash.draw(win)
         
         #update time
@@ -305,7 +305,7 @@ if num_correct > 0:
     
     try:
         splash.undraw()
-    except AttributeError, NameError:
+    except (AttributeError, NameError):
         pass
     
     if score:
